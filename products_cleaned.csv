@@ -1,0 +1,1201 @@
+product_id,product_name,category,brand,cost_price,unit_price,margin_pct
+P0000,BrandA Shoulder,Electronics,Brandc,52.75,64.65,0.1841
+P0001,BrandA Responsibility,Electronics,Brandd,11.2,13.26,0.1554
+P0002,BrandB Small,Electronics,Brandb,144.62,250.37,0.4224
+P0003,BrandD Continue,Apparel,Brandd,119.91,219.25,0.4531
+P0004,BrandA Indeed,Apparel,Brandd,71.35,88.47,0.1935
+P0005,BrandC Cut,Electronics,Branda,79.09,112.55,0.2973
+P0006,BrandC Air,Home & kitchen,Branda,147.3,233.12,0.3681
+P0007,BrandD State,Electronics,Brandc,166.73,276.22,0.3964
+P0008,BrandC Growth,Apparel,Branda,13.94,18.19,0.2336
+P0009,BrandC Keep,Electronics,Brandb,173.96,250.87,0.3066
+P0010,BrandD Reveal,Home & kitchen,Brandb,77.19,99.46,0.2239
+P0011,BrandC Laugh,Electronics,Brandb,109.16,144.13,0.2426
+P0012,BrandD Cell,Personal care,Brandc,197.96,331.78,0.4033
+P0013,BrandB Seat,Home & kitchen,Branda,49.66,56.06,0.1142
+P0014,BrandC Argue,Personal care,Brandc,17.91,34.42,0.4797
+P0015,BrandC Peace,Apparel,Brandd,82.15,157.98,0.48
+P0016,BrandD Crime,Apparel,Brandc,32.23,57.06,0.4352
+P0017,BrandC Firm,Personal care,Brandd,75.59,151.0,0.4994
+P0018,BrandB Management,Personal care,Branda,152.38,285.71,0.4667
+P0019,BrandB Left,Apparel,Brandd,121.3,175.44,0.3086
+P0020,BrandD House,Home & kitchen,Branda,137.66,165.62,0.1688
+P0021,BrandC Shake,Home & kitchen,Branda,62.23,77.31,0.1951
+P0022,BrandA Much,Home & kitchen,Brandb,104.0,124.36,0.1637
+P0023,BrandC Believe,Apparel,Unknown,77.91,97.03,0.1971
+P0024,BrandA Black,Home & kitchen,Brandd,8.8,17.04,0.4836
+P0025,BrandC Resource,Apparel,Branda,51.97,83.7,0.3791
+P0026,BrandA Fund,Electronics,Brandd,164.12,324.99,0.495
+P0027,BrandB Probably,Apparel,Brandd,189.64,236.79,0.1991
+P0028,BrandD Degree,Apparel,Brandb,144.03,210.15,0.3146
+P0029,BrandC Stuff,Personal care,Brandd,28.6,37.24,0.232
+P0030,BrandC War,Electronics,Brandb,119.75,132.5,0.0962
+P0031,BrandA Responsibility,Apparel,Branda,181.56,340.18,0.4663
+P0032,BrandA Role,Apparel,Brandc,135.45,175.11,0.2265
+P0033,BrandB Training,Personal care,Brandb,158.0,288.63,0.4526
+P0034,BrandB Draw,Electronics,Branda,133.5,189.42,0.2952
+P0035,BrandD Sure,Personal care,Branda,136.31,270.68,0.4964
+P0036,BrandA Beautiful,Electronics,Brandd,147.0,267.62,0.4507
+P0037,BrandA One,Apparel,Brandb,42.09,63.29,0.335
+P0038,BrandD The,Apparel,Brandc,95.21,179.66,0.4701
+P0039,BrandA Professor,Personal care,Branda,14.86,29.71,0.4998
+P0040,BrandA Identify,Electronics,Brandb,37.43,57.53,0.3494
+P0041,BrandB Prevent,Personal care,Branda,37.1,40.88,0.0925
+P0042,BrandD Outside,Home & kitchen,Brandd,60.62,104.69,0.421
+P0043,BrandD Who,Apparel,Unknown,62.86,123.95,0.4929
+P0044,BrandA Argue,Home & kitchen,Unknown,14.78,22.6,0.346
+P0045,BrandB Tend,Electronics,Branda,171.01,198.66,0.1392
+P0046,BrandA Usually,Apparel,Brandd,28.38,53.96,0.4741
+P0047,BrandB Son,Electronics,Branda,86.75,141.0,0.3848
+P0048,BrandC Carry,Home & kitchen,Brandb,135.6,187.5,0.2768
+P0049,BrandC Bit,Personal care,Unknown,135.98,186.29,0.2701
+P0050,BrandC Marriage,Electronics,Branda,94.37,188.61,0.4997
+P0051,BrandA Table,Electronics,Brandb,103.65,126.37,0.1798
+P0052,BrandC Agency,Electronics,Brandb,77.06,95.71,0.1949
+P0053,BrandC Decision,Electronics,Brandc,186.69,222.76,0.1619
+P0054,BrandB Our,Home & kitchen,Branda,178.49,315.6,0.4344
+P0055,BrandB Day,Home & kitchen,Brandc,122.94,214.63,0.4272
+P0056,BrandB Operation,Home & kitchen,Brandd,53.97,103.48,0.4784
+P0057,BrandA Majority,Electronics,Brandd,166.72,190.01,0.1226
+P0058,BrandC Recently,Apparel,Unknown,36.51,54.68,0.3323
+P0059,BrandD Mother,Electronics,Branda,19.67,37.27,0.4722
+P0060,BrandB Society,Electronics,Brandc,118.59,146.26,0.1892
+P0061,BrandB Off,Electronics,Brandc,76.11,147.64,0.4845
+P0062,BrandA Five,Home & kitchen,Brandb,138.0,234.63,0.4118
+P0063,BrandC Congress,Personal care,Brandb,185.52,243.6,0.2384
+P0064,BrandB Important,Apparel,Brandd,9.83,17.33,0.4328
+P0065,BrandC Moment,Personal care,Brandb,57.03,103.15,0.4471
+P0066,BrandA Computer,Personal care,Branda,172.43,224.19,0.2309
+P0067,BrandD Indeed,Home & kitchen,Brandc,165.0,310.89,0.4693
+P0068,BrandB Nice,Electronics,Brandb,82.7,111.71,0.2597
+P0069,BrandA Wait,Home & kitchen,Brandc,130.09,189.89,0.3149
+P0070,BrandC Quality,Electronics,Unknown,176.02,235.0,0.251
+P0071,BrandC Tough,Electronics,Branda,121.33,171.21,0.2913
+P0072,BrandC Finish,Personal care,Branda,80.11,129.69,0.3823
+P0073,BrandC Help,Electronics,Brandd,5.33,10.3,0.4825
+P0074,BrandB No,Home & kitchen,Brandd,18.64,31.65,0.4111
+P0075,BrandC Better,Home & kitchen,Branda,145.35,199.17,0.2702
+P0076,BrandC Economy,Personal care,Brandc,83.47,114.03,0.268
+P0077,BrandB Need,Apparel,Brandd,134.66,194.08,0.3062
+P0078,BrandB Oil,Home & kitchen,Brandd,111.85,123.08,0.0912
+P0079,BrandC Southern,Apparel,Brandd,158.22,260.43,0.3925
+P0080,BrandC Market,Personal care,Brandd,91.22,117.89,0.2262
+P0081,BrandD Need,Apparel,Branda,60.34,102.43,0.4109
+P0082,BrandC Society,Electronics,Brandb,136.2,177.36,0.2321
+P0083,BrandB Weight,Apparel,Branda,14.01,27.82,0.4964
+P0084,BrandA Head,Personal care,Brandd,177.8,287.7,0.382
+P0085,BrandD Officer,Personal care,Brandd,52.58,88.88,0.4084
+P0086,BrandA Born,Electronics,Brandd,47.67,86.94,0.4517
+P0087,BrandD Accept,Electronics,Brandb,183.91,222.39,0.173
+P0088,BrandB Compare,Personal care,Brandc,190.26,361.93,0.4743
+P0089,BrandD Answer,Personal care,Brandb,150.01,229.1,0.3452
+P0090,BrandC Chance,Apparel,Brandc,154.33,242.17,0.3627
+P0091,BrandB Add,Home & kitchen,Brandd,20.11,27.29,0.2631
+P0092,BrandC Half,Home & kitchen,Brandc,179.14,210.05,0.1472
+P0093,BrandB Present,Apparel,Brandd,140.32,243.56,0.4239
+P0094,BrandA President,Personal care,Brandd,69.52,105.62,0.3418
+P0095,BrandA So,Apparel,Brandd,80.95,145.13,0.4422
+P0096,BrandA Drive,Personal care,Brandd,6.15,8.71,0.2939
+P0097,BrandD Might,Personal care,Brandb,100.2,134.83,0.2568
+P0098,BrandD Officer,Electronics,Brandd,70.55,120.73,0.4156
+P0099,BrandD Indicate,Apparel,Brandd,184.31,365.42,0.4956
+P0100,BrandA Off,Personal care,Branda,21.37,31.75,0.3269
+P0101,BrandD Fall,Apparel,Unknown,55.73,77.72,0.2829
+P0102,BrandD Improve,Home & kitchen,Brandc,153.44,221.14,0.3061
+P0103,BrandD Or,Home & kitchen,Branda,96.71,171.58,0.4364
+P0104,BrandA Among,Home & kitchen,Brandb,131.78,237.61,0.4454
+P0105,BrandA Same,Electronics,Brandb,43.88,49.07,0.1058
+P0106,BrandB Follow,Apparel,Brandb,97.34,117.1,0.1687
+P0107,BrandB Never,Personal care,Unknown,154.55,193.34,0.2006
+P0108,BrandA Make,Apparel,Brandc,26.08,29.29,0.1096
+P0109,BrandC Break,Personal care,Unknown,188.59,241.11,0.2178
+P0110,BrandB Not,Electronics,Brandc,170.81,280.19,0.3904
+P0111,BrandA First,Electronics,Brandc,108.89,184.61,0.4102
+P0112,BrandA Represent,Home & kitchen,Branda,170.67,314.05,0.4566
+P0113,BrandA Company,Personal care,Brandc,128.94,238.0,0.4582
+P0114,BrandB You,Personal care,Brandb,148.09,291.58,0.4921
+P0115,BrandC Piece,Personal care,Brandd,89.94,158.11,0.4312
+P0116,BrandC Sometimes,Home & kitchen,Brandb,166.99,196.71,0.1511
+P0117,BrandD Hair,Apparel,Brandd,116.12,197.56,0.4122
+P0118,BrandC Manager,Electronics,Brandd,170.94,216.01,0.2086
+P0119,BrandB Quite,Home & kitchen,Brandc,71.37,135.05,0.4715
+P0120,BrandC Arm,Electronics,Brandb,21.69,37.92,0.428
+P0121,BrandD Stand,Apparel,Brandd,130.95,201.89,0.3514
+P0122,BrandA Loss,Electronics,Brandc,48.21,83.05,0.4195
+P0123,BrandC Word,Home & kitchen,Brandd,112.93,159.16,0.2905
+P0124,BrandC Every,Home & kitchen,Brandd,57.83,76.7,0.246
+P0125,BrandA Off,Apparel,Brandc,28.31,44.79,0.3679
+P0126,BrandB History,Apparel,Brandb,149.03,201.02,0.2586
+P0127,BrandC Another,Electronics,Brandb,62.77,89.43,0.2981
+P0128,BrandC Look,Electronics,Brandb,58.49,115.63,0.4942
+P0129,BrandC Let,Apparel,Brandd,25.0,27.78,0.1001
+P0130,BrandC Trial,Personal care,Brandd,90.89,115.06,0.2101
+P0131,BrandA Gas,Home & kitchen,Brandd,27.25,31.58,0.1371
+P0132,BrandD Ever,Electronics,Branda,34.59,63.3,0.4536
+P0133,BrandC Physical,Electronics,Brandb,28.1,50.24,0.4407
+P0134,BrandB Step,Personal care,Brandd,182.16,249.13,0.2688
+P0135,BrandD Especially,Home & kitchen,Branda,123.88,218.78,0.4338
+P0136,BrandB Treat,Apparel,Brandc,133.78,166.07,0.1944
+P0137,BrandB Money,Electronics,Brandb,5.52,8.31,0.3357
+P0138,BrandD Prove,Home & kitchen,Branda,50.14,87.06,0.4241
+P0139,BrandD Own,Electronics,Brandb,185.16,334.96,0.4472
+P0140,BrandB Community,Personal care,Branda,111.19,187.12,0.4058
+P0141,BrandC Hour,Apparel,Branda,16.63,30.16,0.4486
+P0142,BrandC Factor,Personal care,Branda,96.4,132.42,0.272
+P0143,BrandD Dark,Home & kitchen,Brandd,90.36,148.03,0.3896
+P0144,BrandD Mind,Home & kitchen,Brandc,10.04,13.11,0.2342
+P0145,BrandA Stay,Home & kitchen,Branda,153.81,193.44,0.2049
+P0146,BrandD Church,Home & kitchen,Brandb,199.4,297.56,0.3299
+P0147,BrandD Safe,Electronics,Brandd,72.85,101.99,0.2857
+P0148,BrandA Particular,Apparel,Brandc,85.27,131.82,0.3531
+P0149,BrandD Hot,Electronics,Brandd,22.17,29.42,0.2464
+P0150,BrandA Serious,Personal care,Branda,133.24,211.63,0.3704
+P0151,BrandD Side,Electronics,Brandb,106.1,176.17,0.3977
+P0152,BrandD Growth,Personal care,Branda,44.69,71.25,0.3728
+P0153,BrandC Surface,Personal care,Brandd,28.68,56.67,0.4939
+P0154,BrandB Alone,Apparel,Brandc,112.41,179.52,0.3738
+P0155,BrandA World,Apparel,Branda,94.98,114.52,0.1706
+P0156,BrandB Smile,Personal care,Brandc,104.23,140.3,0.2571
+P0157,BrandD Past,Personal care,Brandb,94.07,115.72,0.1871
+P0158,BrandB Value,Apparel,Branda,58.87,106.61,0.4478
+P0159,BrandD Some,Home & kitchen,Brandc,165.01,223.52,0.2618
+P0160,BrandC Memory,Personal care,Brandb,92.08,141.43,0.3489
+P0161,BrandC Least,Personal care,Brandd,186.91,351.88,0.4688
+P0162,BrandB Onto,Personal care,Brandb,171.92,252.67,0.3196
+P0163,BrandC Power,Personal care,Unknown,80.29,136.28,0.4108
+P0164,BrandB Whatever,Personal care,Branda,29.62,58.32,0.4921
+P0165,BrandC Establish,Electronics,Brandd,24.44,46.91,0.479
+P0166,BrandA Human,Apparel,Brandd,174.83,344.93,0.4931
+P0167,BrandA Early,Personal care,Brandc,71.02,122.4,0.4198
+P0168,BrandA Mouth,Home & kitchen,Brandd,191.06,317.95,0.3991
+P0169,BrandD Get,Electronics,Branda,50.78,87.14,0.4173
+P0170,BrandC Education,Apparel,Unknown,89.62,106.52,0.1587
+P0171,BrandA Sometimes,Personal care,Brandb,140.33,268.46,0.4773
+P0172,BrandA Difficult,Home & kitchen,Branda,62.21,89.42,0.3043
+P0173,BrandB Player,Apparel,Brandd,115.36,209.18,0.4485
+P0174,BrandB Decide,Apparel,Branda,123.85,178.88,0.3076
+P0175,BrandB Give,Personal care,Brandb,50.28,84.17,0.4026
+P0176,BrandD Offer,Home & kitchen,Branda,180.29,273.81,0.3416
+P0177,BrandC May,Apparel,Branda,91.14,128.6,0.2913
+P0178,BrandC Use,Personal care,Brandc,94.08,129.07,0.2711
+P0179,BrandD Product,Personal care,Branda,51.26,82.77,0.3807
+P0180,BrandC Unit,Home & kitchen,Branda,195.7,331.2,0.4091
+P0181,BrandC Card,Electronics,Branda,182.57,323.27,0.4352
+P0182,BrandC Fund,Apparel,Brandc,47.71,60.65,0.2134
+P0183,BrandC Direction,Apparel,Branda,181.16,304.66,0.4054
+P0184,BrandC Think,Personal care,Branda,118.02,207.61,0.4315
+P0185,BrandA Mind,Home & kitchen,Brandc,150.76,189.67,0.2051
+P0186,BrandB Who,Home & kitchen,Brandc,166.94,222.24,0.2488
+P0187,BrandD Party,Home & kitchen,Brandc,161.83,246.22,0.3427
+P0188,BrandA Strong,Apparel,Brandb,172.73,302.59,0.4292
+P0189,BrandD Tax,Home & kitchen,Branda,159.18,177.09,0.1011
+P0190,BrandA Middle,Personal care,Brandc,136.2,232.24,0.4135
+P0191,BrandD Face,Home & kitchen,Branda,136.59,208.21,0.344
+P0192,BrandC Become,Apparel,Branda,128.9,195.65,0.3412
+P0193,BrandC Nothing,Personal care,Branda,32.26,62.96,0.4876
+P0194,BrandC In,Personal care,Branda,23.95,45.47,0.4733
+P0195,BrandB Care,Personal care,Brandd,77.35,151.18,0.4884
+P0196,BrandD Strategy,Apparel,Brandd,132.71,245.56,0.4596
+P0197,BrandD Campaign,Home & kitchen,Branda,139.6,180.86,0.2281
+P0198,BrandD Instead,Apparel,Brandc,24.37,41.85,0.4177
+P0199,BrandC Grow,Electronics,Brandd,58.8,115.92,0.4928
+P0200,BrandD While,Electronics,Brandb,130.13,213.08,0.3893
+P0201,BrandA Good,Electronics,Brandc,52.5,63.7,0.1758
+P0202,BrandB Simple,Electronics,Brandb,119.34,218.6,0.4541
+P0203,BrandB Since,Home & kitchen,Brandb,158.79,259.84,0.3889
+P0204,BrandC Right,Apparel,Brandb,110.34,200.67,0.4501
+P0205,BrandA Congress,Electronics,Brandb,7.9,14.31,0.4479
+P0206,BrandB Police,Home & kitchen,Branda,38.98,44.72,0.1284
+P0207,BrandD Use,Electronics,Branda,97.87,176.19,0.4445
+P0208,BrandA Situation,Personal care,Brandb,189.36,215.69,0.1221
+P0209,BrandC Over,Personal care,Branda,16.86,25.81,0.3468
+P0210,BrandD Discuss,Personal care,Branda,100.6,193.02,0.4788
+P0211,BrandA Middle,Electronics,Brandc,123.62,143.29,0.1373
+P0212,BrandC Finally,Home & kitchen,Brandd,198.95,313.84,0.3661
+P0213,BrandD Young,Personal care,Branda,159.65,192.05,0.1687
+P0214,BrandB Apply,Personal care,Brandd,178.18,262.36,0.3209
+P0215,BrandD Whom,Personal care,Brandd,147.27,203.42,0.276
+P0216,BrandC Between,Home & kitchen,Brandc,190.95,328.08,0.418
+P0217,BrandD Husband,Electronics,Branda,167.2,197.95,0.1553
+P0218,BrandA Child,Home & kitchen,Brandb,113.49,184.74,0.3857
+P0219,BrandC Radio,Electronics,Brandd,73.95,125.63,0.4114
+P0220,BrandD Artist,Electronics,Brandc,122.08,172.92,0.294
+P0221,BrandB Network,Apparel,Brandd,48.73,58.35,0.1649
+P0222,BrandC Business,Electronics,Brandc,116.95,213.61,0.4525
+P0223,BrandA Song,Home & kitchen,Branda,40.18,69.61,0.4228
+P0224,BrandC Mouth,Home & kitchen,Brandc,6.19,11.66,0.4691
+P0225,BrandD Week,Electronics,Brandb,149.49,295.19,0.4936
+P0226,BrandA Other,Apparel,Brandd,86.87,122.21,0.2892
+P0227,BrandC Recent,Home & kitchen,Brandc,156.48,252.06,0.3792
+P0228,BrandA Herself,Electronics,Brandb,35.69,59.1,0.3961
+P0229,BrandA Degree,Home & kitchen,Brandd,134.08,206.09,0.3494
+P0230,BrandD Car,Personal care,Brandc,47.04,73.43,0.3594
+P0231,BrandC Part,Personal care,Branda,60.23,103.03,0.4154
+P0232,BrandD Poor,Home & kitchen,Branda,48.0,95.33,0.4965
+P0233,BrandA Relationship,Electronics,Brandb,63.78,82.28,0.2248
+P0234,BrandB Cup,Home & kitchen,Brandc,68.98,76.36,0.0966
+P0235,BrandD List,Apparel,Brandb,79.14,137.17,0.4231
+P0236,BrandC Still,Electronics,Brandd,173.04,196.93,0.1213
+P0237,BrandA During,Personal care,Branda,173.11,280.12,0.382
+P0238,BrandD Say,Personal care,Brandc,27.46,30.72,0.1061
+P0239,BrandC Market,Apparel,Brandd,167.25,322.42,0.4813
+P0240,BrandA Real,Personal care,Unknown,52.45,85.49,0.3865
+P0241,BrandA Town,Personal care,Brandc,150.43,195.47,0.2304
+P0242,BrandB Report,Electronics,Branda,108.47,138.25,0.2154
+P0243,BrandC Who,Home & kitchen,Unknown,51.07,62.91,0.1882
+P0244,BrandB Walk,Apparel,Brandb,153.24,258.97,0.4083
+P0245,BrandB We,Personal care,Brandd,152.12,271.37,0.4394
+P0246,BrandD Social,Home & kitchen,Brandc,34.44,40.0,0.139
+P0247,BrandD Hundred,Home & kitchen,Brandc,120.33,170.48,0.2942
+P0248,BrandA Teacher,Home & kitchen,Brandd,93.12,107.2,0.1313
+P0249,BrandC Firm,Electronics,Branda,124.93,194.44,0.3575
+P0250,BrandD Hard,Electronics,Brandd,182.26,294.26,0.3806
+P0251,BrandB Task,Home & kitchen,Brandd,102.77,201.63,0.4903
+P0252,BrandD Do,Electronics,Brandc,196.57,231.15,0.1496
+P0253,BrandB Someone,Electronics,Brandb,142.99,284.82,0.498
+P0254,BrandB Least,Home & kitchen,Brandc,184.0,266.56,0.3097
+P0255,BrandC Exactly,Electronics,Brandc,17.85,21.15,0.156
+P0256,BrandD Now,Home & kitchen,Brandc,146.13,247.09,0.4086
+P0257,BrandB Mean,Home & kitchen,Branda,118.63,145.59,0.1852
+P0258,BrandC Rise,Home & kitchen,Brandd,30.15,52.4,0.4246
+P0259,BrandA Current,Home & kitchen,Brandd,130.48,182.1,0.2835
+P0260,BrandB Thought,Electronics,Brandd,104.16,116.29,0.1043
+P0261,BrandC Serve,Apparel,Brandb,71.64,128.2,0.4412
+P0262,BrandB Speak,Apparel,Brandb,35.21,48.1,0.268
+P0263,BrandA Candidate,Electronics,Brandc,175.9,291.33,0.3962
+P0264,BrandD Pretty,Apparel,Brandb,40.26,69.39,0.4198
+P0265,BrandB Line,Personal care,Branda,85.12,145.45,0.4148
+P0266,BrandB Often,Personal care,Brandc,151.72,273.92,0.4461
+P0267,BrandB Edge,Apparel,Brandc,193.29,349.07,0.4463
+P0268,BrandB Reason,Home & kitchen,Brandd,95.03,128.63,0.2612
+P0269,BrandD Give,Personal care,Brandb,164.29,299.19,0.4509
+P0270,BrandB Person,Home & kitchen,Branda,130.03,245.33,0.47
+P0271,BrandA How,Electronics,Brandc,21.36,26.58,0.1964
+P0272,BrandD Political,Apparel,Brandd,22.88,43.92,0.4791
+P0273,BrandD Continue,Home & kitchen,Branda,85.9,125.14,0.3136
+P0274,BrandC Upon,Apparel,Brandd,198.93,285.95,0.3043
+P0275,BrandA Similar,Home & kitchen,Branda,168.64,284.15,0.4065
+P0276,BrandB Near,Apparel,Branda,60.94,112.54,0.4585
+P0277,BrandB Management,Personal care,Unknown,124.99,239.39,0.4779
+P0278,BrandA Tough,Home & kitchen,Brandb,167.82,267.49,0.3726
+P0279,BrandD Significant,Electronics,Brandc,51.34,62.1,0.1733
+P0280,BrandB Itself,Personal care,Brandd,17.25,31.96,0.4603
+P0281,BrandD Force,Electronics,Brandb,145.12,197.67,0.2658
+P0282,BrandA Where,Home & kitchen,Brandb,116.28,147.51,0.2117
+P0283,BrandA Outside,Home & kitchen,Branda,190.91,303.48,0.3709
+P0284,BrandA Become,Personal care,Brandd,13.49,19.54,0.3096
+P0285,BrandC Everybody,Home & kitchen,Branda,74.63,86.63,0.1385
+P0286,BrandB Film,Electronics,Brandc,31.01,43.94,0.2943
+P0287,BrandC Arm,Apparel,Brandd,196.26,300.41,0.3467
+P0288,BrandB Owner,Apparel,Branda,144.63,281.92,0.487
+P0289,BrandA Toward,Home & kitchen,Brandb,13.54,17.32,0.2182
+P0290,BrandA Ball,Home & kitchen,Brandc,105.5,209.97,0.4975
+P0291,BrandD Memory,Home & kitchen,Branda,151.89,193.2,0.2138
+P0292,BrandC Use,Electronics,Brandc,58.28,106.04,0.4504
+P0293,BrandD President,Personal care,Brandd,179.45,259.84,0.3094
+P0294,BrandB Whatever,Personal care,Brandd,76.63,139.28,0.4498
+P0295,BrandC Right,Electronics,Brandd,20.39,33.48,0.391
+P0296,BrandB Popular,Home & kitchen,Brandc,25.01,34.89,0.2832
+P0297,BrandC Staff,Home & kitchen,Brandd,122.51,181.74,0.3259
+P0298,BrandD Open,Home & kitchen,Brandd,13.26,24.97,0.469
+P0299,BrandC Involve,Personal care,Brandc,129.7,235.06,0.4482
+P0300,BrandA Still,Electronics,Brandd,75.85,138.12,0.4508
+P0301,BrandB Those,Electronics,Brandb,170.49,291.59,0.4153
+P0302,BrandD Player,Electronics,Brandb,18.11,32.61,0.4446
+P0303,BrandC Blood,Home & kitchen,Brandd,190.15,214.71,0.1144
+P0304,BrandB Treatment,Personal care,Brandc,77.54,138.55,0.4403
+P0305,BrandB Best,Home & kitchen,Brandd,66.31,89.57,0.2597
+P0306,BrandA Federal,Electronics,Brandb,102.31,148.17,0.3095
+P0307,BrandA Him,Home & kitchen,Brandc,142.29,184.0,0.2267
+P0308,BrandC Adult,Personal care,Brandb,28.91,53.99,0.4645
+P0309,BrandD Partner,Apparel,Brandd,199.47,364.92,0.4534
+P0310,BrandC Policy,Home & kitchen,Branda,112.25,152.81,0.2654
+P0311,BrandC Sign,Apparel,Brandb,159.77,248.9,0.3581
+P0312,BrandA Already,Apparel,Brandb,51.16,79.02,0.3526
+P0313,BrandC Trial,Home & kitchen,Brandd,161.71,258.17,0.3736
+P0314,BrandA Check,Electronics,Brandc,82.64,144.23,0.427
+P0315,BrandD Gas,Personal care,Brandd,165.55,193.09,0.1426
+P0316,BrandC Start,Electronics,Brandd,95.84,150.05,0.3613
+P0317,BrandB None,Apparel,Brandb,89.36,171.54,0.4791
+P0318,BrandA Mean,Electronics,Brandb,64.3,80.1,0.1973
+P0319,BrandB Role,Home & kitchen,Brandc,169.96,225.29,0.2456
+P0320,BrandC Summer,Apparel,Brandc,124.81,147.79,0.1555
+P0321,BrandB Usually,Apparel,Unknown,133.45,233.35,0.4281
+P0322,BrandC Tree,Electronics,Branda,20.84,40.71,0.4881
+P0323,BrandC Rate,Apparel,Unknown,125.53,141.5,0.1129
+P0324,BrandC Somebody,Home & kitchen,Brandd,52.75,96.35,0.4525
+P0325,BrandD Religious,Home & kitchen,Brandd,19.23,22.19,0.1334
+P0326,BrandD Half,Personal care,Brandd,95.57,134.39,0.2889
+P0327,BrandB Head,Home & kitchen,Brandc,148.17,277.77,0.4666
+P0328,BrandD Worry,Apparel,Brandc,105.42,126.04,0.1636
+P0329,BrandB Build,Personal care,Branda,57.16,75.63,0.2442
+P0330,BrandA Trouble,Electronics,Brandc,189.35,355.55,0.4674
+P0331,BrandD Machine,Apparel,Brandb,163.63,317.5,0.4846
+P0332,BrandC Number,Apparel,Unknown,102.16,159.7,0.3603
+P0333,BrandD Something,Home & kitchen,Brandd,9.52,18.57,0.4873
+P0334,BrandD While,Apparel,Brandb,118.75,135.83,0.1257
+P0335,BrandC Environment,Personal care,Brandd,60.72,67.24,0.097
+P0336,BrandA Feel,Personal care,Brandb,177.08,310.73,0.4301
+P0337,BrandD Turn,Home & kitchen,Branda,83.11,134.08,0.3801
+P0338,BrandB Read,Home & kitchen,Brandc,19.34,30.05,0.3564
+P0339,BrandC Lawyer,Electronics,Brandb,195.14,283.83,0.3125
+P0340,BrandC Group,Home & kitchen,Brandb,43.82,68.28,0.3582
+P0341,BrandA Now,Electronics,Branda,31.72,44.4,0.2856
+P0342,BrandD Church,Personal care,Unknown,123.22,192.71,0.3606
+P0343,BrandC Computer,Home & kitchen,Brandb,81.63,135.09,0.3957
+P0344,BrandC Including,Home & kitchen,Unknown,143.2,196.16,0.27
+P0345,BrandA Model,Home & kitchen,Brandc,136.39,270.31,0.4954
+P0346,BrandC And,Electronics,Brandd,56.78,95.96,0.4083
+P0347,BrandB Camera,Electronics,Brandd,38.25,63.73,0.3998
+P0348,BrandD Sport,Apparel,Brandb,11.16,21.8,0.4881
+P0349,BrandA Base,Apparel,Branda,91.0,134.4,0.3229
+P0350,BrandD Either,Apparel,Brandd,102.85,169.74,0.3941
+P0351,BrandD Debate,Electronics,Brandb,106.14,170.33,0.3769
+P0352,BrandD Place,Personal care,Brandc,191.55,289.95,0.3394
+P0353,BrandC Might,Home & kitchen,Brandc,123.96,157.81,0.2145
+P0354,BrandB Memory,Home & kitchen,Unknown,48.85,96.51,0.4938
+P0355,BrandC Part,Home & kitchen,Unknown,139.6,215.0,0.3507
+P0356,BrandD Interest,Home & kitchen,Brandc,61.12,98.78,0.3813
+P0357,BrandD Animal,Personal care,Brandc,191.15,348.69,0.4518
+P0358,BrandC Fight,Electronics,Unknown,191.29,224.02,0.1461
+P0359,BrandD Machine,Home & kitchen,Brandd,46.73,86.22,0.458
+P0360,BrandC Table,Home & kitchen,Brandb,26.3,46.47,0.434
+P0361,BrandB Mrs,Apparel,Branda,135.62,214.0,0.3663
+P0362,BrandB Understand,Electronics,Unknown,85.59,149.41,0.4271
+P0363,BrandA Benefit,Apparel,Branda,193.08,382.32,0.495
+P0364,BrandB Evidence,Personal care,Brandd,98.1,125.52,0.2185
+P0365,BrandC Through,Home & kitchen,Brandc,130.95,251.05,0.4784
+P0366,BrandA Yeah,Apparel,Branda,183.08,230.23,0.2048
+P0367,BrandB Why,Electronics,Unknown,158.65,201.12,0.2112
+P0368,BrandC Major,Electronics,Branda,63.19,103.79,0.3912
+P0369,BrandC Piece,Home & kitchen,Brandd,197.87,314.41,0.3707
+P0370,BrandD Economy,Apparel,Brandd,58.2,106.39,0.453
+P0371,BrandC Range,Apparel,Brandd,131.42,229.56,0.4275
+P0372,BrandA Or,Home & kitchen,Brandc,115.72,206.16,0.4387
+P0373,BrandB Environment,Personal care,Brandd,105.48,124.26,0.1511
+P0374,BrandA Generation,Apparel,Brandb,98.1,190.53,0.4851
+P0375,BrandA Research,Home & kitchen,Brandd,50.93,90.57,0.4377
+P0376,BrandC Hard,Home & kitchen,Branda,56.0,79.72,0.2975
+P0377,BrandB Set,Electronics,Unknown,95.75,119.09,0.196
+P0378,BrandC Himself,Electronics,Brandc,76.67,99.58,0.2301
+P0379,BrandB Outside,Personal care,Brandb,93.72,186.5,0.4975
+P0380,BrandC Raise,Personal care,Unknown,152.68,278.15,0.4511
+P0381,BrandB Someone,Apparel,Branda,107.47,169.3,0.3652
+P0382,BrandC Family,Electronics,Branda,17.04,27.14,0.3721
+P0383,BrandB Finally,Apparel,Brandb,68.98,108.18,0.3624
+P0384,BrandA Commercial,Apparel,Brandd,22.73,35.44,0.3586
+P0385,BrandA Door,Personal care,Brandb,105.08,158.79,0.3382
+P0386,BrandA Recent,Personal care,Brandc,146.04,212.69,0.3134
+P0387,BrandA Happen,Apparel,Branda,13.83,19.5,0.2908
+P0388,BrandA Scene,Electronics,Branda,197.3,300.86,0.3442
+P0389,BrandC Occur,Personal care,Brandb,154.95,277.24,0.4411
+P0390,BrandD Minute,Home & kitchen,Unknown,92.46,178.02,0.4806
+P0391,BrandD Different,Personal care,Branda,138.13,234.22,0.4103
+P0392,BrandB Must,Home & kitchen,Branda,39.8,63.02,0.3685
+P0393,BrandB Put,Apparel,Branda,152.45,301.95,0.4951
+P0394,BrandD Set,Personal care,Brandd,165.56,219.0,0.244
+P0395,BrandC Charge,Apparel,Brandc,41.75,78.81,0.4702
+P0396,BrandA Power,Electronics,Brandd,124.91,242.65,0.4852
+P0397,BrandA Officer,Apparel,Brandb,18.12,29.62,0.3883
+P0398,BrandD Always,Electronics,Brandb,149.41,218.44,0.316
+P0399,BrandB Figure,Apparel,Branda,32.33,64.47,0.4985
+P0400,BrandB Window,Home & kitchen,Brandc,51.2,96.7,0.4705
+P0401,BrandB While,Personal care,Brandc,58.66,93.92,0.3754
+P0402,BrandB Few,Personal care,Brandd,14.14,19.94,0.2909
+P0403,BrandD Official,Home & kitchen,Brandd,84.61,115.91,0.27
+P0404,BrandB Recognize,Personal care,Brandb,170.62,233.86,0.2704
+P0405,BrandB Charge,Personal care,Branda,114.67,226.02,0.4927
+P0406,BrandB Knowledge,Personal care,Brandb,54.72,76.46,0.2843
+P0407,BrandA Purpose,Personal care,Brandc,23.03,40.35,0.4292
+P0408,BrandB Traditional,Electronics,Brandc,78.55,129.17,0.3919
+P0409,BrandA Technology,Electronics,Brandb,161.91,263.72,0.3861
+P0410,BrandB Much,Personal care,Brandb,174.55,244.31,0.2855
+P0411,BrandA Policy,Apparel,Unknown,192.61,232.21,0.1705
+P0412,BrandD I,Apparel,Brandb,82.34,108.31,0.2398
+P0413,BrandC Sell,Home & kitchen,Brandd,95.92,161.51,0.4061
+P0414,BrandC Both,Home & kitchen,Brandc,105.0,162.49,0.3538
+P0415,BrandA Analysis,Personal care,Brandc,183.29,262.77,0.3025
+P0416,BrandD Central,Electronics,Brandb,149.54,166.68,0.1028
+P0417,BrandD Its,Home & kitchen,Brandb,43.26,56.54,0.2349
+P0418,BrandB Including,Personal care,Brandc,55.18,101.5,0.4564
+P0419,BrandD Build,Personal care,Brandb,147.89,209.55,0.2942
+P0420,BrandB Particular,Personal care,Brandb,183.8,291.86,0.3702
+P0421,BrandA Necessary,Electronics,Branda,189.31,322.09,0.4122
+P0422,BrandA Rate,Personal care,Brandb,169.3,221.49,0.2356
+P0423,BrandB Community,Electronics,Unknown,103.62,148.79,0.3036
+P0424,BrandD First,Personal care,Branda,6.29,10.04,0.3735
+P0425,BrandA Step,Electronics,Brandc,109.47,148.66,0.2636
+P0426,BrandD Author,Apparel,Branda,184.02,289.27,0.3638
+P0427,BrandB Author,Apparel,Unknown,163.97,219.82,0.2541
+P0428,BrandD Less,Electronics,Brandc,192.06,290.61,0.3391
+P0429,BrandB Watch,Apparel,Brandc,138.39,257.83,0.4633
+P0430,BrandA Place,Electronics,Brandd,78.96,126.13,0.374
+P0431,BrandA Agree,Electronics,Brandb,21.12,39.3,0.4626
+P0432,BrandC Movement,Electronics,Branda,49.8,95.18,0.4768
+P0433,BrandD Determine,Home & kitchen,Branda,185.21,317.82,0.4172
+P0434,BrandC Follow,Electronics,Brandb,186.11,257.4,0.277
+P0435,BrandB Team,Apparel,Brandd,186.13,254.88,0.2697
+P0436,BrandB Pay,Personal care,Brandc,79.85,141.0,0.4337
+P0437,BrandA Many,Home & kitchen,Branda,24.05,31.48,0.236
+P0438,BrandA Raise,Home & kitchen,Brandd,193.94,270.3,0.2825
+P0439,BrandC Address,Personal care,Unknown,49.49,79.07,0.3741
+P0440,BrandD Return,Personal care,Brandb,137.54,233.08,0.4099
+P0441,BrandA Remember,Home & kitchen,Brandb,144.06,169.1,0.1481
+P0442,BrandB Young,Personal care,Brandb,149.23,206.69,0.278
+P0443,BrandA Bed,Electronics,Branda,188.88,283.37,0.3335
+P0444,BrandC Choice,Electronics,Brandb,22.02,32.76,0.3278
+P0445,BrandD Show,Electronics,Branda,22.48,35.94,0.3745
+P0446,BrandC Whole,Personal care,Branda,61.91,89.71,0.3099
+P0447,BrandA About,Apparel,Brandb,138.64,173.65,0.2016
+P0448,BrandC Letter,Home & kitchen,Brandc,101.16,117.04,0.1357
+P0449,BrandD What,Home & kitchen,Brandd,63.45,114.49,0.4458
+P0450,BrandC Base,Home & kitchen,Brandb,145.58,225.1,0.3533
+P0451,BrandB Sell,Personal care,Branda,31.42,34.75,0.0958
+P0452,BrandD Happen,Home & kitchen,Brandd,161.79,225.95,0.284
+P0453,BrandC Down,Personal care,Brandb,63.58,104.45,0.3913
+P0454,BrandB Performance,Personal care,Brandc,39.64,57.81,0.3143
+P0455,BrandC Back,Home & kitchen,Brandd,193.71,349.41,0.4456
+P0456,BrandC Leg,Personal care,Brandc,164.22,238.72,0.3121
+P0457,BrandA Resource,Apparel,Brandb,137.93,220.01,0.3731
+P0458,BrandD Force,Apparel,Brandd,160.55,296.72,0.4589
+P0459,BrandA Me,Personal care,Brandd,32.14,44.11,0.2714
+P0460,BrandC Miss,Apparel,Brandd,158.87,185.33,0.1428
+P0461,BrandD Training,Personal care,Brandd,111.01,201.11,0.448
+P0462,BrandC Ever,Electronics,Branda,154.95,262.15,0.4089
+P0463,BrandC Front,Apparel,Branda,114.83,192.98,0.405
+P0464,BrandD Receive,Home & kitchen,Brandd,25.66,30.5,0.1587
+P0465,BrandB Exist,Apparel,Brandd,77.95,118.23,0.3407
+P0466,BrandB Ok,Home & kitchen,Branda,99.14,135.41,0.2679
+P0467,BrandA Performance,Electronics,Brandb,72.92,102.73,0.2902
+P0468,BrandB Forget,Personal care,Brandc,97.85,146.22,0.3308
+P0469,BrandD Keep,Home & kitchen,Branda,63.55,116.24,0.4533
+P0470,BrandA Site,Electronics,Brandc,131.35,224.53,0.415
+P0471,BrandB Back,Apparel,Brandb,112.62,157.43,0.2846
+P0472,BrandD Wear,Personal care,Brandb,160.56,267.62,0.4
+P0473,BrandB Ever,Personal care,Brandd,10.69,17.67,0.395
+P0474,BrandB Condition,Personal care,Brandd,80.82,140.16,0.4234
+P0475,BrandB Particular,Home & kitchen,Branda,117.58,213.94,0.4504
+P0476,BrandB Course,Home & kitchen,Brandc,43.43,52.23,0.1685
+P0477,BrandD Attorney,Home & kitchen,Brandd,124.21,202.25,0.3859
+P0478,BrandC Window,Home & kitchen,Brandd,125.39,229.76,0.4543
+P0479,BrandC Bed,Electronics,Brandb,66.07,86.86,0.2394
+P0480,BrandA Glass,Apparel,Brandc,140.22,218.71,0.3589
+P0481,BrandD According,Apparel,Brandd,87.49,134.56,0.3498
+P0482,BrandB Reach,Apparel,Brandd,61.32,77.78,0.2116
+P0483,BrandD Buy,Electronics,Brandc,190.61,292.81,0.349
+P0484,BrandB Effect,Personal care,Brandd,84.78,130.78,0.3517
+P0485,BrandD Political,Personal care,Brandb,21.12,23.82,0.1134
+P0486,BrandB Into,Home & kitchen,Branda,58.6,92.81,0.3686
+P0487,BrandB Will,Personal care,Brandd,112.2,134.85,0.168
+P0488,BrandA Executive,Home & kitchen,Brandc,110.7,197.17,0.4386
+P0489,BrandD Girl,Apparel,Brandd,24.97,46.12,0.4586
+P0490,BrandB Five,Home & kitchen,Branda,92.7,131.05,0.2926
+P0491,BrandA Chance,Personal care,Branda,156.25,205.2,0.2385
+P0492,BrandC Administration,Personal care,Brandb,125.15,226.07,0.4464
+P0493,BrandB Lay,Electronics,Brandc,108.79,178.11,0.3892
+P0494,BrandB Reveal,Home & kitchen,Brandc,61.42,82.34,0.2541
+P0495,BrandA Never,Apparel,Brandd,184.16,367.07,0.4983
+P0496,BrandB Where,Apparel,Brandb,33.52,46.59,0.2805
+P0497,BrandB Country,Personal care,Brandd,32.72,54.61,0.4008
+P0498,BrandD South,Personal care,Brandd,19.73,35.81,0.449
+P0499,BrandA Author,Personal care,Brandc,140.47,265.43,0.4708
+P0500,BrandD What,Personal care,Brandc,118.48,222.98,0.4687
+P0501,BrandA Book,Personal care,Brandc,170.77,310.14,0.4494
+P0502,BrandD Hard,Apparel,Brandd,165.85,256.28,0.3529
+P0503,BrandC Entire,Home & kitchen,Brandc,111.73,136.04,0.1787
+P0504,BrandD Nice,Home & kitchen,Branda,13.96,23.22,0.3988
+P0505,BrandD Again,Electronics,Branda,186.24,231.34,0.195
+P0506,BrandD Suggest,Electronics,Brandd,44.45,76.44,0.4185
+P0507,BrandB Prepare,Home & kitchen,Brandb,175.51,331.53,0.4706
+P0508,BrandA Scientist,Home & kitchen,Brandc,21.07,35.78,0.4111
+P0509,BrandB Offer,Electronics,Brandd,126.99,222.66,0.4297
+P0510,BrandB Structure,Personal care,Branda,142.22,156.58,0.0917
+P0511,BrandD Certainly,Electronics,Brandb,120.77,189.31,0.3621
+P0512,BrandD Once,Electronics,Branda,140.64,258.13,0.4552
+P0513,BrandD Yet,Apparel,Brandd,18.81,27.18,0.3079
+P0514,BrandA Federal,Electronics,Brandc,76.67,104.99,0.2697
+P0515,BrandD Range,Apparel,Brandb,18.34,29.47,0.3777
+P0516,BrandB Great,Personal care,Brandc,145.87,242.91,0.3995
+P0517,BrandB Police,Personal care,Brandd,172.69,203.43,0.1511
+P0518,BrandA War,Apparel,Branda,119.97,173.43,0.3083
+P0519,BrandD Cup,Home & kitchen,Brandb,53.32,89.59,0.4048
+P0520,BrandB Blue,Home & kitchen,Branda,170.34,288.31,0.4092
+P0521,BrandC Head,Apparel,Brandb,150.83,206.03,0.2679
+P0522,BrandA Citizen,Apparel,Brandd,80.25,105.69,0.2407
+P0523,BrandA Director,Electronics,Unknown,187.12,228.06,0.1795
+P0524,BrandD See,Home & kitchen,Brandb,153.73,301.16,0.4895
+P0525,BrandA Democratic,Electronics,Branda,7.69,9.95,0.2271
+P0526,BrandA Arrive,Personal care,Brandc,127.57,197.85,0.3552
+P0527,BrandD Decide,Personal care,Brandd,21.07,33.35,0.3682
+P0528,BrandB Evening,Home & kitchen,Branda,65.43,102.08,0.359
+P0529,BrandB Hope,Apparel,Brandc,81.19,135.66,0.4015
+P0530,BrandA Firm,Home & kitchen,Brandd,147.34,274.32,0.4629
+P0531,BrandA Week,Apparel,Branda,185.3,223.17,0.1697
+P0532,BrandA Candidate,Home & kitchen,Brandb,28.29,49.14,0.4243
+P0533,BrandA Become,Apparel,Brandd,190.84,299.75,0.3633
+P0534,BrandC Region,Apparel,Brandc,29.75,53.64,0.4454
+P0535,BrandC Produce,Electronics,Branda,70.33,104.54,0.3272
+P0536,BrandA Live,Home & kitchen,Branda,101.75,158.7,0.3589
+P0537,BrandA Someone,Personal care,Brandb,76.7,101.98,0.2479
+P0538,BrandA Read,Electronics,Brandb,149.45,164.74,0.0928
+P0539,BrandA Painting,Apparel,Branda,96.99,140.12,0.3078
+P0540,BrandB As,Apparel,Branda,112.81,216.88,0.4799
+P0541,BrandD Tough,Apparel,Brandc,53.41,102.78,0.4803
+P0542,BrandC Drop,Home & kitchen,Branda,116.45,140.61,0.1718
+P0543,BrandA Look,Apparel,Brandb,161.85,320.99,0.4958
+P0544,BrandD Available,Electronics,Brandd,173.88,312.32,0.4433
+P0545,BrandC As,Home & kitchen,Branda,112.85,124.94,0.0968
+P0546,BrandB Hospital,Home & kitchen,Brandc,149.22,196.72,0.2415
+P0547,BrandC Dark,Personal care,Brandb,147.83,235.33,0.3718
+P0548,BrandB Note,Apparel,Branda,186.82,209.52,0.1083
+P0549,BrandC Drop,Electronics,Brandc,5.29,8.95,0.4089
+P0550,BrandC Wish,Electronics,Brandb,108.31,142.36,0.2392
+P0551,BrandD Condition,Electronics,Brandb,143.77,170.18,0.1552
+P0552,BrandB President,Personal care,Brandc,94.4,167.38,0.436
+P0553,BrandA Shoulder,Apparel,Brandd,19.59,31.56,0.3793
+P0554,BrandD Simple,Apparel,Brandb,61.88,115.46,0.4641
+P0555,BrandD Institution,Home & kitchen,Brandc,93.29,122.23,0.2368
+P0556,BrandB Agent,Apparel,Branda,35.31,44.06,0.1986
+P0557,BrandD Name,Home & kitchen,Brandd,28.54,40.6,0.297
+P0558,BrandB Specific,Personal care,Brandc,95.35,178.04,0.4644
+P0559,BrandA Character,Apparel,Brandc,166.15,286.97,0.421
+P0560,BrandA Effort,Apparel,Brandc,33.92,59.02,0.4253
+P0561,BrandC Several,Personal care,Branda,137.05,182.85,0.2505
+P0562,BrandB Charge,Electronics,Brandd,171.65,274.7,0.3751
+P0563,BrandB Require,Electronics,Brandd,24.87,45.12,0.4488
+P0564,BrandA Eat,Electronics,Branda,166.92,331.22,0.496
+P0565,BrandB Sister,Apparel,Brandd,77.59,129.36,0.4002
+P0566,BrandA Now,Home & kitchen,Branda,9.25,10.71,0.1363
+P0567,BrandD Them,Apparel,Branda,181.49,335.11,0.4584
+P0568,BrandC Person,Electronics,Branda,188.74,216.22,0.1271
+P0569,BrandD Loss,Personal care,Brandd,10.75,18.44,0.417
+P0570,BrandB Marriage,Home & kitchen,Unknown,182.12,245.4,0.2579
+P0571,BrandD Enough,Apparel,Branda,124.75,206.5,0.3959
+P0572,BrandC Responsibility,Personal care,Brandd,177.14,271.22,0.3469
+P0573,BrandA Think,Home & kitchen,Brandd,31.76,40.64,0.2185
+P0574,BrandB Little,Electronics,Brandd,157.47,224.11,0.2974
+P0575,BrandD Help,Home & kitchen,Brandc,80.73,101.87,0.2075
+P0576,BrandC Floor,Apparel,Branda,179.67,323.53,0.4447
+P0577,BrandA Only,Personal care,Brandc,154.53,309.01,0.4999
+P0578,BrandB Recent,Electronics,Brandb,133.09,178.32,0.2536
+P0579,BrandA See,Apparel,Brandd,74.19,137.64,0.461
+P0580,BrandB Foot,Apparel,Brandb,120.54,220.06,0.4522
+P0581,BrandC Quality,Electronics,Brandc,189.77,305.01,0.3778
+P0582,BrandB Name,Personal care,Brandc,39.23,44.49,0.1182
+P0583,BrandA History,Apparel,Brandb,8.89,13.6,0.3463
+P0584,BrandC Military,Apparel,Brandb,71.45,90.01,0.2062
+P0585,BrandC Bill,Electronics,Branda,33.8,58.62,0.4234
+P0586,BrandB And,Electronics,Brandc,192.31,276.2,0.3037
+P0587,BrandD Offer,Electronics,Brandc,63.84,78.06,0.1822
+P0588,BrandB Economy,Personal care,Brandd,131.59,165.38,0.2043
+P0589,BrandC Today,Apparel,Brandb,78.78,138.7,0.432
+P0590,BrandC Source,Apparel,Brandb,147.12,287.46,0.4882
+P0591,BrandD Them,Electronics,Brandb,122.47,236.24,0.4816
+P0592,BrandB Conference,Electronics,Brandd,32.43,57.43,0.4353
+P0593,BrandB Specific,Home & kitchen,Brandc,37.74,71.58,0.4728
+P0594,BrandA And,Home & kitchen,Brandd,7.22,9.3,0.2237
+P0595,BrandA Style,Home & kitchen,Brandc,158.47,277.06,0.428
+P0596,BrandA Reveal,Personal care,Unknown,147.85,291.59,0.493
+P0597,BrandD Owner,Personal care,Brandd,73.49,105.66,0.3045
+P0598,BrandD Interesting,Apparel,Unknown,93.0,169.19,0.4503
+P0599,BrandA Let,Home & kitchen,Branda,67.15,131.38,0.4889
+P0600,BrandA Energy,Home & kitchen,Brandb,178.15,221.76,0.1967
+P0601,BrandA Everything,Electronics,Brandc,120.84,199.66,0.3948
+P0602,BrandD Line,Electronics,Brandd,188.78,235.69,0.199
+P0603,BrandD Make,Apparel,Branda,24.75,31.8,0.2217
+P0604,BrandB Fact,Personal care,Brandc,133.82,183.02,0.2688
+P0605,BrandA Speak,Electronics,Brandd,116.5,216.21,0.4612
+P0606,BrandB Fight,Electronics,Brandc,5.74,6.77,0.1521
+P0607,BrandD Build,Apparel,Branda,10.02,12.56,0.2022
+P0608,BrandC Act,Electronics,Brandd,169.53,233.53,0.2741
+P0609,BrandD Movie,Personal care,Unknown,179.5,240.26,0.2529
+P0610,BrandD Education,Apparel,Brandc,177.67,254.51,0.3019
+P0611,BrandD Step,Electronics,Brandc,90.75,121.34,0.2521
+P0612,BrandC Easy,Electronics,Brandb,151.69,257.98,0.412
+P0613,BrandA Day,Home & kitchen,Brandd,194.29,316.84,0.3868
+P0614,BrandA Well,Personal care,Brandd,193.3,332.16,0.4181
+P0615,BrandD Computer,Apparel,Brandd,63.28,92.09,0.3128
+P0616,BrandA Stock,Apparel,Branda,190.1,285.94,0.3352
+P0617,BrandB Health,Apparel,Brandb,29.61,43.85,0.3247
+P0618,BrandD Page,Apparel,Brandb,167.65,223.33,0.2493
+P0619,BrandA Themselves,Electronics,Brandd,113.49,181.23,0.3738
+P0620,BrandC Trade,Personal care,Branda,158.38,263.03,0.3979
+P0621,BrandD Prepare,Electronics,Brandd,34.18,55.03,0.3789
+P0622,BrandA Staff,Electronics,Branda,158.22,297.57,0.4683
+P0623,BrandC Cause,Personal care,Brandc,79.69,122.49,0.3494
+P0624,BrandD Theory,Electronics,Brandb,58.71,72.18,0.1866
+P0625,BrandD She,Electronics,Brandd,178.47,249.56,0.2849
+P0626,BrandB Public,Electronics,Brandd,184.56,352.02,0.4757
+P0627,BrandA Civil,Home & kitchen,Brandc,65.64,122.0,0.462
+P0628,BrandA Culture,Apparel,Brandb,63.59,112.51,0.4348
+P0629,BrandC Probably,Home & kitchen,Brandd,122.97,145.15,0.1528
+P0630,BrandD Partner,Apparel,Brandd,149.48,266.6,0.4393
+P0631,BrandC Family,Electronics,Brandb,17.8,30.95,0.4249
+P0632,BrandD Pattern,Apparel,Branda,38.88,73.39,0.4702
+P0633,BrandB Should,Electronics,Brandb,11.45,13.12,0.1273
+P0634,BrandC Quite,Apparel,Brandc,76.83,116.61,0.3411
+P0635,BrandD Door,Electronics,Branda,52.18,80.35,0.3506
+P0636,BrandD White,Apparel,Brandd,119.44,168.98,0.2932
+P0637,BrandB Involve,Home & kitchen,Branda,60.59,87.73,0.3094
+P0638,BrandB Society,Apparel,Brandb,131.24,224.41,0.4152
+P0639,BrandC Fish,Personal care,Branda,173.6,342.07,0.4925
+P0640,BrandA Sort,Personal care,Brandb,131.24,215.37,0.3906
+P0641,BrandA Activity,Apparel,Brandc,123.63,240.92,0.4868
+P0642,BrandC Level,Personal care,Brandd,171.06,258.83,0.3391
+P0643,BrandB Off,Personal care,Brandc,137.05,252.43,0.4571
+P0644,BrandD Nearly,Electronics,Branda,104.75,177.67,0.4104
+P0645,BrandC Similar,Home & kitchen,Brandc,138.46,212.34,0.3479
+P0646,BrandC Today,Home & kitchen,Brandc,172.99,230.95,0.251
+P0647,BrandC Almost,Apparel,Brandb,105.87,139.35,0.2403
+P0648,BrandA Certainly,Personal care,Brandc,137.75,240.95,0.4283
+P0649,BrandD Reality,Home & kitchen,Brandc,181.85,266.25,0.317
+P0650,BrandA Senior,Apparel,Brandc,146.68,190.7,0.2308
+P0651,BrandD Board,Home & kitchen,Brandc,169.86,315.36,0.4614
+P0652,BrandB Product,Home & kitchen,Unknown,96.8,171.03,0.434
+P0653,BrandB Method,Home & kitchen,Branda,48.34,62.89,0.2314
+P0654,BrandC Approach,Personal care,Brandc,77.48,126.06,0.3854
+P0655,BrandD Can,Electronics,Brandd,15.47,25.85,0.4015
+P0656,BrandA Score,Personal care,Brandb,102.59,192.95,0.4683
+P0657,BrandD Although,Home & kitchen,Brandd,15.54,29.04,0.4649
+P0658,BrandB It,Apparel,Brandc,84.79,136.72,0.3798
+P0659,BrandD Writer,Apparel,Brandc,173.17,218.6,0.2078
+P0660,BrandA Lose,Personal care,Brandc,128.05,161.23,0.2058
+P0661,BrandA Day,Electronics,Brandd,58.34,104.14,0.4398
+P0662,BrandB Writer,Apparel,Brandd,158.12,284.9,0.445
+P0663,BrandB Something,Personal care,Brandd,83.66,164.71,0.4921
+P0664,BrandD Look,Electronics,Branda,109.09,191.74,0.4311
+P0665,BrandA Risk,Home & kitchen,Brandb,8.49,9.37,0.0939
+P0666,BrandB Congress,Apparel,Brandc,65.86,78.53,0.1613
+P0667,BrandC Actually,Apparel,Branda,165.65,226.67,0.2692
+P0668,BrandC No,Personal care,Brandc,89.56,153.87,0.418
+P0669,BrandB Personal,Home & kitchen,Brandd,75.05,95.28,0.2123
+P0670,BrandD Modern,Electronics,Brandb,48.74,96.82,0.4966
+P0671,BrandB Good,Electronics,Brandb,29.02,50.49,0.4252
+P0672,BrandA Rich,Personal care,Brandc,155.39,258.08,0.3979
+P0673,BrandA Production,Electronics,Branda,14.41,17.35,0.1695
+P0674,BrandD Bring,Personal care,Branda,111.72,170.59,0.3451
+P0675,BrandB Happy,Apparel,Branda,63.72,108.04,0.4102
+P0676,BrandC Realize,Apparel,Unknown,166.98,199.44,0.1628
+P0677,BrandA Thus,Home & kitchen,Unknown,158.03,244.62,0.354
+P0678,BrandB Leave,Home & kitchen,Brandb,74.79,109.85,0.3192
+P0679,BrandB Until,Electronics,Brandd,182.52,313.82,0.4184
+P0680,BrandD Letter,Home & kitchen,Brandb,5.53,9.43,0.4136
+P0681,BrandA Truth,Personal care,Brandb,190.14,342.55,0.4449
+P0682,BrandA Let,Electronics,Brandc,130.65,197.42,0.3382
+P0683,BrandC Nation,Home & kitchen,Brandd,14.77,27.06,0.4542
+P0684,BrandA Hear,Home & kitchen,Brandc,161.31,222.84,0.2761
+P0685,BrandA Eat,Electronics,Branda,6.89,8.44,0.1836
+P0686,BrandB Heart,Home & kitchen,Brandc,179.43,351.61,0.4897
+P0687,BrandC Man,Electronics,Brandc,163.92,207.29,0.2092
+P0688,BrandD Key,Personal care,Brandd,58.01,83.95,0.309
+P0689,BrandD Side,Personal care,Brandb,27.05,46.7,0.4208
+P0690,BrandA Laugh,Apparel,Branda,86.13,140.54,0.3871
+P0691,BrandD Others,Apparel,Brandd,156.94,258.99,0.394
+P0692,BrandB Because,Personal care,Unknown,27.02,39.72,0.3197
+P0693,BrandA Board,Electronics,Brandc,132.72,147.47,0.1
+P0694,BrandB Write,Home & kitchen,Branda,89.41,156.82,0.4299
+P0695,BrandD Charge,Home & kitchen,Brandd,33.99,62.67,0.4576
+P0696,BrandA Practice,Electronics,Brandb,103.59,157.7,0.3431
+P0697,BrandD Cell,Apparel,Branda,151.53,210.41,0.2798
+P0698,BrandC This,Home & kitchen,Branda,103.85,165.69,0.3732
+P0699,BrandD Herself,Personal care,Brandb,20.37,30.55,0.3332
+P0700,BrandD Movement,Electronics,Brandd,92.18,111.25,0.1714
+P0701,BrandD Money,Electronics,Branda,83.67,94.74,0.1168
+P0702,BrandA Rise,Electronics,Brandc,178.57,286.8,0.3774
+P0703,BrandD Lay,Home & kitchen,Brandc,165.94,304.49,0.455
+P0704,BrandD Four,Home & kitchen,Brandd,144.75,206.55,0.2992
+P0705,BrandD Step,Electronics,Branda,153.07,198.93,0.2305
+P0706,BrandC Floor,Home & kitchen,Brandc,111.8,160.6,0.3039
+P0707,BrandA Training,Electronics,Brandb,101.02,185.84,0.4564
+P0708,BrandD Poor,Electronics,Brandc,124.12,157.48,0.2118
+P0709,BrandD Through,Apparel,Brandd,165.79,210.81,0.2136
+P0710,BrandC Next,Electronics,Brandd,14.07,23.5,0.4013
+P0711,BrandA Question,Personal care,Brandd,133.4,261.54,0.4899
+P0712,BrandB Interesting,Personal care,Branda,108.42,124.0,0.1256
+P0713,BrandD Begin,Personal care,Brandb,139.9,175.75,0.204
+P0714,BrandB Lot,Electronics,Brandd,133.22,219.22,0.3923
+P0715,BrandC Stage,Personal care,Brandd,196.0,377.17,0.4803
+P0716,BrandB When,Home & kitchen,Brandd,192.9,380.68,0.4933
+P0717,BrandD Executive,Apparel,Brandb,85.49,147.9,0.422
+P0718,BrandC Huge,Home & kitchen,Brandb,44.17,73.4,0.3982
+P0719,BrandC Figure,Home & kitchen,Brandb,196.36,330.88,0.4066
+P0720,BrandB Fill,Home & kitchen,Branda,153.35,246.29,0.3774
+P0721,BrandD Plan,Home & kitchen,Brandd,162.62,255.39,0.3632
+P0722,BrandA Part,Personal care,Brandb,15.35,17.67,0.1313
+P0723,BrandC Realize,Apparel,Brandc,138.26,170.31,0.1882
+P0724,BrandA Theory,Home & kitchen,Brandb,151.95,171.56,0.1143
+P0725,BrandD Executive,Electronics,Brandb,149.77,240.4,0.377
+P0726,BrandB Station,Home & kitchen,Branda,185.66,268.98,0.3098
+P0727,BrandC Across,Electronics,Unknown,150.02,192.44,0.2204
+P0728,BrandD Program,Apparel,Brandc,152.25,242.37,0.3718
+P0729,BrandB Modern,Apparel,Brandc,92.52,183.66,0.4962
+P0730,BrandA Actually,Apparel,Brandb,148.34,179.11,0.1718
+P0731,BrandA Ok,Personal care,Brandc,113.54,138.18,0.1783
+P0732,BrandC Happen,Electronics,Brandc,95.93,186.46,0.4855
+P0733,BrandA Soon,Apparel,Brandc,121.39,218.05,0.4433
+P0734,BrandC Apply,Personal care,Brandc,19.21,33.37,0.4243
+P0735,BrandB Eat,Apparel,Branda,158.32,196.86,0.1958
+P0736,BrandD Participant,Electronics,Brandc,48.13,62.18,0.226
+P0737,BrandC Apply,Home & kitchen,Unknown,62.25,121.72,0.4886
+P0738,BrandD Market,Electronics,Branda,135.44,203.31,0.3338
+P0739,BrandB Fine,Electronics,Brandc,79.37,144.18,0.4495
+P0740,BrandA Office,Personal care,Brandc,110.35,149.47,0.2617
+P0741,BrandC Maybe,Personal care,Brandd,13.55,25.86,0.476
+P0742,BrandB Goal,Home & kitchen,Branda,189.9,237.5,0.2004
+P0743,BrandA Whatever,Electronics,Brandb,135.72,243.78,0.4433
+P0744,BrandD Church,Electronics,Brandb,109.86,190.33,0.4228
+P0745,BrandD Generation,Electronics,Brandb,9.63,16.81,0.4271
+P0746,BrandA Clear,Electronics,Branda,15.58,28.27,0.4489
+P0747,BrandA Development,Apparel,Brandc,84.49,127.24,0.336
+P0748,BrandD Traditional,Personal care,Brandc,8.29,14.14,0.4137
+P0749,BrandA Commercial,Electronics,Branda,141.67,165.09,0.1419
+P0750,BrandA Thus,Home & kitchen,Brandc,123.28,166.84,0.2611
+P0751,BrandD Receive,Personal care,Brandd,165.31,186.43,0.1133
+P0752,BrandB Teacher,Apparel,Brandb,150.62,273.69,0.4497
+P0753,BrandC Dinner,Apparel,Brandc,137.07,263.55,0.4799
+P0754,BrandC Natural,Electronics,Brandb,29.03,32.06,0.0945
+P0755,BrandD Ago,Electronics,Brandc,45.96,81.22,0.4341
+P0756,BrandC Once,Apparel,Brandd,181.6,338.92,0.4642
+P0757,BrandB Plant,Apparel,Brandb,48.05,88.95,0.4598
+P0758,BrandB Film,Electronics,Brandb,135.84,218.78,0.3791
+P0759,BrandA Summer,Personal care,Branda,61.68,71.59,0.1384
+P0760,BrandA Create,Apparel,Brandd,190.55,270.85,0.2965
+P0761,BrandB Around,Electronics,Brandc,125.81,240.31,0.4765
+P0762,BrandC Opportunity,Personal care,Brandd,69.03,116.9,0.4095
+P0763,BrandB Suddenly,Home & kitchen,Brandc,191.94,240.27,0.2011
+P0764,BrandC Friend,Apparel,Brandb,143.88,241.25,0.4036
+P0765,BrandC Blood,Home & kitchen,Unknown,137.52,192.31,0.2849
+P0766,BrandD Room,Personal care,Brandd,74.95,103.05,0.2727
+P0767,BrandA Market,Apparel,Branda,169.15,316.79,0.4661
+P0768,BrandB Job,Apparel,Brandc,148.04,246.33,0.399
+P0769,BrandA Specific,Electronics,Branda,163.47,264.99,0.3831
+P0770,BrandB Piece,Electronics,Brandc,110.98,221.83,0.4997
+P0771,BrandD Impact,Apparel,Brandc,81.54,155.11,0.4743
+P0772,BrandC Fast,Apparel,Brandd,102.72,121.36,0.1536
+P0773,BrandC Onto,Electronics,Brandb,170.36,311.06,0.4523
+P0774,BrandB Star,Apparel,Brandd,36.05,58.03,0.3788
+P0775,BrandB Far,Personal care,Brandc,12.88,22.99,0.4398
+P0776,BrandB Scientist,Electronics,Brandc,77.04,87.71,0.1217
+P0777,BrandB Hair,Home & kitchen,Brandd,96.59,145.77,0.3374
+P0778,BrandA News,Electronics,Brandc,25.13,49.55,0.4928
+P0779,BrandC Recently,Home & kitchen,Brandb,78.45,113.02,0.3059
+P0780,BrandA Two,Home & kitchen,Brandd,194.67,253.19,0.2311
+P0781,BrandD Notice,Home & kitchen,Brandc,99.94,153.3,0.3481
+P0782,BrandA North,Apparel,Brandd,37.29,43.61,0.1449
+P0783,BrandC Thus,Apparel,Brandb,41.45,59.11,0.2988
+P0784,BrandA Player,Apparel,Brandd,163.18,285.28,0.428
+P0785,BrandD Pressure,Personal care,Brandd,46.09,57.39,0.1969
+P0786,BrandD Physical,Electronics,Brandb,13.41,21.67,0.3812
+P0787,BrandB Some,Apparel,Branda,178.71,220.2,0.1884
+P0788,BrandB Marriage,Home & kitchen,Brandb,105.74,154.9,0.3174
+P0789,BrandA Lot,Home & kitchen,Branda,47.24,77.75,0.3924
+P0790,BrandD Coach,Personal care,Brandb,47.78,70.22,0.3196
+P0791,BrandB Key,Apparel,Brandc,37.71,64.75,0.4176
+P0792,BrandD Benefit,Electronics,Brandb,78.75,96.0,0.1797
+P0793,BrandA Mission,Apparel,Brandd,166.17,273.34,0.3921
+P0794,BrandB Pm,Personal care,Branda,176.16,278.03,0.3664
+P0795,BrandA Especially,Electronics,Brandd,133.58,255.38,0.4769
+P0796,BrandA Impact,Personal care,Brandd,77.22,87.96,0.1221
+P0797,BrandD Fact,Apparel,Brandd,158.96,229.4,0.3071
+P0798,BrandA Establish,Personal care,Brandb,54.63,97.75,0.4411
+P0799,BrandA Bed,Home & kitchen,Brandd,55.27,61.07,0.095
+P0800,BrandA Customer,Electronics,Branda,78.13,100.39,0.2217
+P0801,BrandC Laugh,Personal care,Brandc,25.78,38.24,0.3258
+P0802,BrandC Others,Home & kitchen,Brandd,115.11,190.01,0.3942
+P0803,BrandD She,Apparel,Brandd,112.66,180.46,0.3757
+P0804,BrandB Theory,Home & kitchen,Brandd,54.49,74.98,0.2733
+P0805,BrandC Young,Personal care,Brandb,171.72,290.78,0.4095
+P0806,BrandB Way,Personal care,Brandb,24.55,38.24,0.358
+P0807,BrandC Five,Electronics,Brandb,80.88,135.25,0.402
+P0808,BrandA Since,Apparel,Brandd,185.54,276.8,0.3297
+P0809,BrandA Baby,Home & kitchen,Brandb,77.31,127.42,0.3933
+P0810,BrandD Similar,Personal care,Brandc,143.76,235.44,0.3894
+P0811,BrandB Window,Personal care,Brandd,7.09,13.23,0.4641
+P0812,BrandC Quite,Apparel,Branda,157.87,246.2,0.3588
+P0813,BrandB Democratic,Apparel,Branda,75.15,126.97,0.4081
+P0814,BrandB Own,Electronics,Brandc,157.04,222.65,0.2947
+P0815,BrandD Trip,Personal care,Brandb,105.96,186.83,0.4329
+P0816,BrandA Want,Electronics,Brandc,146.6,235.03,0.3762
+P0817,BrandC Hand,Home & kitchen,Brandc,49.13,96.63,0.4916
+P0818,BrandD Chair,Personal care,Branda,55.92,82.0,0.318
+P0819,BrandA Often,Electronics,Brandc,71.29,85.93,0.1704
+P0820,BrandC House,Home & kitchen,Unknown,193.38,310.73,0.3777
+P0821,BrandB Mouth,Home & kitchen,Brandd,137.91,262.98,0.4756
+P0822,BrandA Defense,Personal care,Branda,55.27,79.83,0.3077
+P0823,BrandB Power,Apparel,Brandc,85.42,121.11,0.2947
+P0824,BrandA One,Home & kitchen,Brandb,61.02,89.03,0.3146
+P0825,BrandC Subject,Electronics,Brandb,97.93,138.88,0.2949
+P0826,BrandC Rather,Apparel,Brandb,102.3,130.91,0.2185
+P0827,BrandB Argue,Home & kitchen,Brandb,49.7,92.02,0.4599
+P0828,BrandC Kitchen,Apparel,Branda,28.38,33.22,0.1457
+P0829,BrandD Ability,Electronics,Branda,170.36,244.31,0.3027
+P0830,BrandC Technology,Personal care,Brandc,100.71,200.01,0.4965
+P0831,BrandC Away,Personal care,Brandb,151.28,183.87,0.1772
+P0832,BrandD Number,Personal care,Branda,102.98,149.77,0.3124
+P0833,BrandB Guy,Personal care,Branda,141.16,213.73,0.3395
+P0834,BrandA Perhaps,Electronics,Brandb,78.99,94.05,0.1601
+P0835,BrandC Deep,Home & kitchen,Brandb,111.97,147.06,0.2386
+P0836,BrandD Big,Home & kitchen,Brandc,40.86,60.54,0.3251
+P0837,BrandD Wear,Home & kitchen,Brandc,171.59,231.93,0.2602
+P0838,BrandB Yet,Apparel,Unknown,163.77,286.39,0.4282
+P0839,BrandB Strategy,Personal care,Brandd,43.23,78.68,0.4506
+P0840,BrandB Social,Personal care,Branda,39.44,61.12,0.3547
+P0841,BrandC Of,Personal care,Brandc,53.94,101.01,0.466
+P0842,BrandA Group,Personal care,Branda,139.66,161.17,0.1335
+P0843,BrandC Seat,Personal care,Branda,92.72,129.92,0.2863
+P0844,BrandC Player,Home & kitchen,Brandc,72.11,106.04,0.32
+P0845,BrandC Should,Apparel,Brandb,195.98,265.78,0.2626
+P0846,BrandC Own,Personal care,Brandd,178.48,257.54,0.307
+P0847,BrandC No,Personal care,Brandb,174.31,292.23,0.4035
+P0848,BrandC Process,Personal care,Brandd,170.54,198.54,0.141
+P0849,BrandB Nice,Home & kitchen,Unknown,66.13,111.61,0.4075
+P0850,BrandC Along,Personal care,Brandc,178.1,321.09,0.4453
+P0851,BrandC Away,Personal care,Brandd,37.63,70.32,0.4649
+P0852,BrandB Stay,Apparel,Brandc,188.39,326.03,0.4222
+P0853,BrandA Since,Apparel,Brandb,82.42,97.75,0.1568
+P0854,BrandD Role,Electronics,Branda,155.33,244.11,0.3637
+P0855,BrandA Miss,Electronics,Unknown,125.53,147.61,0.1496
+P0856,BrandD Occur,Home & kitchen,Brandb,53.24,72.18,0.2624
+P0857,BrandB Soon,Apparel,Brandb,10.57,17.94,0.4108
+P0858,BrandC East,Personal care,Brandd,195.12,309.56,0.3697
+P0859,BrandC Home,Personal care,Brandb,194.06,335.31,0.4213
+P0860,BrandB Shake,Personal care,Brandd,107.07,179.4,0.4032
+P0861,BrandC Buy,Home & kitchen,Brandd,110.24,201.1,0.4518
+P0862,BrandD Reveal,Home & kitchen,Brandc,85.38,105.88,0.1936
+P0863,BrandA Although,Electronics,Brandb,72.06,109.7,0.3431
+P0864,BrandA Charge,Personal care,Brandd,63.42,113.48,0.4411
+P0865,BrandC On,Apparel,Unknown,111.9,142.08,0.2124
+P0866,BrandD Use,Personal care,Brandb,36.84,64.96,0.4329
+P0867,BrandD Seem,Personal care,Brandb,56.28,83.3,0.3244
+P0868,BrandB Need,Home & kitchen,Brandc,131.45,207.53,0.3666
+P0869,BrandC Onto,Personal care,Brandb,171.43,216.72,0.209
+P0870,BrandC Accept,Electronics,Brandd,125.46,168.73,0.2564
+P0871,BrandD Sort,Apparel,Brandc,8.78,10.05,0.1264
+P0872,BrandA Range,Apparel,Branda,60.01,72.76,0.1752
+P0873,BrandD Begin,Electronics,Brandb,22.59,25.15,0.1018
+P0874,BrandB Stop,Home & kitchen,Brandd,65.76,119.65,0.4504
+P0875,BrandC Worry,Personal care,Branda,69.4,129.03,0.4621
+P0876,BrandB Budget,Electronics,Brandc,156.25,181.91,0.1411
+P0877,BrandD Both,Apparel,Brandb,179.66,238.06,0.2453
+P0878,BrandD Bed,Electronics,Branda,195.05,340.01,0.4263
+P0879,BrandD Son,Personal care,Brandb,148.84,168.21,0.1152
+P0880,BrandD Tv,Electronics,Brandb,97.2,166.53,0.4163
+P0881,BrandC Who,Home & kitchen,Brandb,127.69,145.31,0.1213
+P0882,BrandA Worry,Home & kitchen,Brandd,129.51,165.62,0.218
+P0883,BrandA Peace,Apparel,Branda,51.01,76.04,0.3292
+P0884,BrandA Management,Apparel,Brandc,119.02,173.32,0.3133
+P0885,BrandB We,Electronics,Branda,118.31,203.69,0.4192
+P0886,BrandB Her,Home & kitchen,Branda,53.5,82.92,0.3548
+P0887,BrandC Determine,Electronics,Branda,74.33,92.06,0.1926
+P0888,BrandA One,Apparel,Brandd,50.37,99.91,0.4958
+P0889,BrandC Executive,Personal care,Brandb,9.16,13.19,0.3055
+P0890,BrandB In,Home & kitchen,Branda,99.63,148.82,0.3305
+P0891,BrandC Between,Personal care,Brandb,115.51,183.58,0.3708
+P0892,BrandC Effort,Personal care,Brandc,174.19,285.46,0.3898
+P0893,BrandB Believe,Electronics,Unknown,92.63,170.21,0.4558
+P0894,BrandC End,Personal care,Branda,156.3,243.1,0.3571
+P0895,BrandB Mouth,Electronics,Brandc,156.32,205.55,0.2395
+P0896,BrandA Matter,Personal care,Brandb,107.19,165.91,0.3539
+P0897,BrandB History,Home & kitchen,Brandc,84.91,118.01,0.2805
+P0898,BrandA Mention,Electronics,Branda,167.86,204.25,0.1782
+P0899,BrandA Sure,Apparel,Branda,99.65,118.47,0.1589
+P0900,BrandD Material,Personal care,Brandc,14.57,18.92,0.2299
+P0901,BrandA Program,Electronics,Brandb,132.87,257.18,0.4834
+P0902,BrandA Language,Personal care,Branda,75.38,133.36,0.4348
+P0903,BrandD Degree,Home & kitchen,Branda,165.61,221.79,0.2533
+P0904,BrandA Represent,Electronics,Brandc,20.2,26.15,0.2275
+P0905,BrandA Movement,Electronics,Brandb,108.67,138.07,0.2129
+P0906,BrandB Prevent,Apparel,Brandd,150.49,269.33,0.4412
+P0907,BrandC Into,Personal care,Brandd,177.15,221.46,0.2001
+P0908,BrandB Everybody,Personal care,Brandc,133.22,210.56,0.3673
+P0909,BrandD Lawyer,Home & kitchen,Brandc,112.27,224.22,0.4993
+P0910,BrandC Police,Personal care,Brandd,166.1,231.06,0.2811
+P0911,BrandB Type,Apparel,Brandd,154.31,298.36,0.4828
+P0912,BrandC Name,Home & kitchen,Brandd,92.26,134.46,0.3138
+P0913,BrandA Group,Home & kitchen,Branda,105.93,211.23,0.4985
+P0914,BrandC Skin,Electronics,Brandc,196.96,254.74,0.2268
+P0915,BrandC Machine,Electronics,Brandc,184.23,287.43,0.359
+P0916,BrandB Answer,Electronics,Branda,94.77,117.56,0.1939
+P0917,BrandC Ago,Home & kitchen,Brandb,50.43,92.29,0.4536
+P0918,BrandA Decision,Personal care,Brandb,148.18,259.5,0.429
+P0919,BrandD Inside,Apparel,Brandd,166.01,285.64,0.4188
+P0920,BrandA Player,Home & kitchen,Branda,147.5,238.75,0.3822
+P0921,BrandA Help,Electronics,Brandc,72.85,133.71,0.4552
+P0922,BrandD Himself,Electronics,Brandb,150.8,281.17,0.4637
+P0923,BrandA A,Personal care,Branda,64.43,73.26,0.1205
+P0924,BrandB Measure,Home & kitchen,Brandb,34.87,59.5,0.4139
+P0925,BrandD Couple,Personal care,Branda,48.31,65.74,0.2651
+P0926,BrandD Skill,Apparel,Brandb,70.55,107.82,0.3457
+P0927,BrandA Past,Personal care,Brandc,21.59,33.5,0.3555
+P0928,BrandB Present,Apparel,Brandd,114.06,175.55,0.3503
+P0929,BrandB Information,Apparel,Brandb,18.97,34.13,0.4442
+P0930,BrandC Other,Electronics,Branda,135.99,201.43,0.3249
+P0931,BrandC Hot,Apparel,Brandc,72.18,121.97,0.4082
+P0932,BrandC Apply,Apparel,Brandc,125.16,249.21,0.4978
+P0933,BrandD Old,Apparel,Brandd,13.75,25.25,0.4554
+P0934,BrandB Personal,Home & kitchen,Brandb,152.76,285.28,0.4645
+P0935,BrandA My,Electronics,Brandb,190.04,367.55,0.483
+P0936,BrandC Baby,Electronics,Brandc,140.29,168.37,0.1668
+P0937,BrandD Catch,Personal care,Branda,69.72,123.13,0.4338
+P0938,BrandB Worry,Apparel,Brandc,112.02,186.04,0.3979
+P0939,BrandB Listen,Electronics,Brandd,118.69,201.44,0.4108
+P0940,BrandA Past,Home & kitchen,Brandb,16.72,21.41,0.2191
+P0941,BrandC Cut,Electronics,Brandd,132.68,146.94,0.097
+P0942,BrandD Similar,Home & kitchen,Brandc,173.54,193.87,0.1049
+P0943,BrandD Because,Apparel,Brandd,104.17,181.12,0.4249
+P0944,BrandC Development,Personal care,Branda,41.35,64.12,0.3551
+P0945,BrandD Far,Electronics,Branda,53.24,83.93,0.3657
+P0946,BrandC Often,Personal care,Brandd,150.16,167.66,0.1044
+P0947,BrandC International,Home & kitchen,Brandc,51.06,101.12,0.4951
+P0948,BrandC Sister,Electronics,Brandc,176.34,335.29,0.4741
+P0949,BrandA Fall,Home & kitchen,Brandb,34.58,65.96,0.4757
+P0950,BrandB Also,Electronics,Unknown,106.54,182.2,0.4153
+P0951,BrandB Space,Personal care,Brandb,116.72,173.19,0.3261
+P0952,BrandC Her,Home & kitchen,Brandd,110.74,142.42,0.2224
+P0953,BrandB Tax,Apparel,Brandb,65.25,113.18,0.4235
+P0954,BrandB Hotel,Personal care,Brandb,132.97,213.86,0.3782
+P0955,BrandB Power,Home & kitchen,Branda,113.68,222.1,0.4882
+P0956,BrandA Beat,Apparel,Brandc,168.71,207.68,0.1876
+P0957,BrandA Sense,Home & kitchen,Brandd,192.43,264.21,0.2717
+P0958,BrandC It,Apparel,Brandb,25.82,32.7,0.2104
+P0959,BrandC Figure,Apparel,Brandb,50.03,56.21,0.1099
+P0960,BrandA Whatever,Personal care,Brandb,102.95,169.27,0.3918
+P0961,BrandC Research,Apparel,Brandd,100.83,123.39,0.1828
+P0962,BrandB Image,Apparel,Branda,84.67,166.96,0.4929
+P0963,BrandC Ability,Personal care,Brandb,149.76,297.94,0.4973
+P0964,BrandB Board,Electronics,Brandb,185.79,369.18,0.4967
+P0965,BrandD Produce,Home & kitchen,Brandd,178.08,264.41,0.3265
+P0966,BrandA Nature,Personal care,Brandc,81.86,159.24,0.4859
+P0967,BrandA It,Electronics,Brandd,94.1,177.85,0.4709
+P0968,BrandB Long,Personal care,Branda,113.75,177.96,0.3608
+P0969,BrandA Team,Apparel,Brandc,90.71,171.98,0.4726
+P0970,BrandC Woman,Personal care,Brandb,87.38,144.34,0.3946
+P0971,BrandA Enjoy,Apparel,Brandd,166.83,251.33,0.3362
+P0972,BrandA Only,Apparel,Brandb,81.65,113.58,0.2811
+P0973,BrandA Water,Apparel,Brandd,120.11,209.16,0.4258
+P0974,BrandB Or,Personal care,Unknown,53.77,92.62,0.4195
+P0975,BrandB Mission,Electronics,Branda,27.26,41.01,0.3353
+P0976,BrandC Face,Electronics,Brandd,146.74,290.2,0.4943
+P0977,BrandB Sometimes,Personal care,Brandd,13.56,17.0,0.2024
+P0978,BrandC Ability,Apparel,Brandb,174.42,219.94,0.207
+P0979,BrandA Order,Personal care,Brandc,65.36,117.11,0.4419
+P0980,BrandD Set,Home & kitchen,Brandb,27.92,34.02,0.1793
+P0981,BrandB Four,Electronics,Brandc,7.38,11.42,0.3538
+P0982,BrandD Visit,Electronics,Brandd,51.39,83.76,0.3865
+P0983,BrandD Garden,Personal care,Brandd,91.17,149.62,0.3907
+P0984,BrandA Cover,Apparel,Brandc,125.85,201.59,0.3757
+P0985,BrandB Play,Electronics,Brandb,33.91,57.24,0.4076
+P0986,BrandA Film,Apparel,Branda,135.06,250.43,0.4607
+P0987,BrandC Author,Home & kitchen,Branda,14.56,21.48,0.3222
+P0988,BrandB Walk,Apparel,Unknown,124.16,213.85,0.4194
+P0989,BrandB Eat,Personal care,Brandc,186.64,220.95,0.1553
+P0990,BrandC Apply,Home & kitchen,Brandc,180.02,330.92,0.456
+P0991,BrandD Stand,Electronics,Brandc,96.81,117.12,0.1734
+P0992,BrandC Pressure,Home & kitchen,Brandd,107.31,185.24,0.4207
+P0993,BrandA Morning,Electronics,Branda,99.31,170.79,0.4185
+P0994,BrandC Bag,Personal care,Brandc,55.63,89.99,0.3818
+P0995,BrandC Base,Apparel,Brandd,106.34,177.45,0.4007
+P0996,BrandD Care,Apparel,Brandb,143.17,283.67,0.4953
+P0997,BrandA Dream,Electronics,Branda,95.65,173.8,0.4497
+P0998,BrandB Stuff,Personal care,Brandd,13.87,19.62,0.2931
+P0999,BrandB Public,Electronics,Brandb,139.55,185.46,0.2475
+P1000,BrandA Bed,Home & kitchen,Brandc,103.8,144.44,0.2814
+P1001,BrandA Present,Electronics,Unknown,71.57,125.39,0.4292
+P1002,BrandA Lot,Apparel,Brandb,69.45,97.52,0.2878
+P1003,BrandD Floor,Personal care,Branda,130.9,200.71,0.3478
+P1004,BrandD Bill,Home & kitchen,Brandd,157.88,232.49,0.3209
+P1005,BrandA Arm,Home & kitchen,Brandc,113.26,126.49,0.1046
+P1006,BrandC Role,Home & kitchen,Branda,194.07,262.46,0.2606
+P1007,BrandA Few,Home & kitchen,Brandd,127.17,236.3,0.4618
+P1008,BrandD Smile,Apparel,Branda,173.6,308.38,0.4371
+P1009,BrandC Then,Electronics,Brandc,85.7,132.61,0.3537
+P1010,BrandB Future,Home & kitchen,Brandd,166.74,228.83,0.2713
+P1011,BrandC Receive,Apparel,Branda,77.97,88.39,0.1179
+P1012,BrandB Up,Electronics,Brandd,103.67,188.59,0.4503
+P1013,BrandB Wide,Apparel,Brandc,185.11,325.64,0.4316
+P1014,BrandC Still,Home & kitchen,Brandb,155.05,184.27,0.1586
+P1015,BrandB Southern,Apparel,Branda,94.58,164.79,0.4261
+P1016,BrandA Watch,Electronics,Brandc,186.81,321.0,0.418
+P1017,BrandA Election,Home & kitchen,Brandd,178.39,212.78,0.1616
+P1018,BrandC Participant,Electronics,Brandc,129.58,167.01,0.2241
+P1019,BrandB Try,Apparel,Brandc,58.95,81.78,0.2792
+P1020,BrandD Oil,Electronics,Brandc,34.12,45.93,0.2571
+P1021,BrandA See,Electronics,Brandb,110.79,176.65,0.3728
+P1022,BrandC Much,Apparel,Brandc,116.95,146.67,0.2026
+P1023,BrandC Magazine,Home & kitchen,Brandd,14.89,16.77,0.1121
+P1024,BrandA None,Electronics,Brandd,15.49,22.98,0.3259
+P1025,BrandB Recent,Personal care,Brandc,65.93,121.03,0.4553
+P1026,BrandA Network,Personal care,Brandb,23.12,42.13,0.4512
+P1027,BrandD Source,Electronics,Brandd,65.53,110.09,0.4048
+P1028,BrandD Tree,Personal care,Brandb,189.75,233.27,0.1866
+P1029,BrandC Energy,Home & kitchen,Brandd,40.75,78.47,0.4807
+P1030,BrandC Important,Home & kitchen,Brandd,100.06,115.95,0.137
+P1031,BrandA Seek,Home & kitchen,Brandd,94.94,119.03,0.2024
+P1032,BrandC Travel,Apparel,Branda,84.11,146.59,0.4262
+P1033,BrandA Life,Home & kitchen,Branda,159.52,251.96,0.3669
+P1034,BrandD Left,Personal care,Brandb,126.07,200.85,0.3723
+P1035,BrandD Several,Personal care,Branda,71.44,130.92,0.4543
+P1036,BrandD Knowledge,Personal care,Brandc,111.18,145.93,0.2381
+P1037,BrandA Try,Personal care,Branda,120.47,182.71,0.3406
+P1038,BrandA Store,Personal care,Brandb,65.07,95.34,0.3175
+P1039,BrandA Owner,Personal care,Brandc,101.39,171.77,0.4097
+P1040,BrandA Series,Apparel,Brandb,178.02,340.54,0.4772
+P1041,BrandA Gas,Apparel,Brandb,93.33,127.15,0.266
+P1042,BrandD Economic,Apparel,Brandb,137.9,190.98,0.2779
+P1043,BrandC Apply,Personal care,Brandc,198.11,321.82,0.3844
+P1044,BrandD Relationship,Apparel,Brandc,17.17,32.81,0.4767
+P1045,BrandA Best,Electronics,Brandc,26.39,35.73,0.2614
+P1046,BrandA Back,Apparel,Brandd,141.93,206.49,0.3127
+P1047,BrandC Mission,Personal care,Brandd,79.41,126.31,0.3713
+P1048,BrandB Almost,Personal care,Brandb,41.7,60.3,0.3085
+P1049,BrandC Practice,Personal care,Brandb,61.25,115.48,0.4696
+P1050,BrandB Director,Apparel,Branda,18.99,21.16,0.1026
+P1051,BrandD Between,Personal care,Brandb,21.51,36.09,0.404
+P1052,BrandD Goal,Personal care,Brandd,126.53,190.93,0.3373
+P1053,BrandD Environment,Personal care,Brandd,74.28,94.13,0.2109
+P1054,BrandA Box,Personal care,Brandb,143.87,193.12,0.255
+P1055,BrandC Red,Electronics,Branda,115.79,200.83,0.4234
+P1056,BrandA Consumer,Personal care,Branda,32.71,57.51,0.4312
+P1057,BrandC Particularly,Personal care,Branda,107.05,176.53,0.3936
+P1058,BrandB Letter,Personal care,Branda,138.39,219.39,0.3692
+P1059,BrandC My,Electronics,Brandc,109.33,121.32,0.0988
+P1060,BrandD Force,Personal care,Brandc,87.1,171.11,0.491
+P1061,BrandC Rate,Home & kitchen,Brandb,11.89,22.95,0.4819
+P1062,BrandC New,Home & kitchen,Branda,127.71,206.93,0.3828
+P1063,BrandA Game,Home & kitchen,Branda,60.93,71.55,0.1484
+P1064,BrandA After,Home & kitchen,Brandc,30.85,41.74,0.2609
+P1065,BrandC Seem,Electronics,Unknown,122.75,235.57,0.4789
+P1066,BrandB Human,Personal care,Brandc,162.53,217.0,0.251
+P1067,BrandB Move,Personal care,Brandb,160.88,301.78,0.4669
+P1068,BrandC Throughout,Electronics,Brandb,121.13,222.82,0.4564
+P1069,BrandD And,Personal care,Brandd,51.4,76.9,0.3316
+P1070,BrandB Gas,Apparel,Brandc,15.59,20.86,0.2526
+P1071,BrandA Across,Electronics,Brandb,95.48,145.95,0.3458
+P1072,BrandD Pay,Apparel,Brandd,138.28,200.65,0.3108
+P1073,BrandC Not,Apparel,Brandd,7.31,14.14,0.483
+P1074,BrandD Contain,Personal care,Brandc,192.54,330.13,0.4168
+P1075,BrandA Those,Electronics,Brandc,191.46,285.01,0.3282
+P1076,BrandC Enjoy,Home & kitchen,Brandc,57.08,67.84,0.1586
+P1077,BrandD Affect,Personal care,Brandb,148.19,241.53,0.3865
+P1078,BrandB Recognize,Home & kitchen,Brandb,66.09,73.33,0.0987
+P1079,BrandA New,Electronics,Branda,85.19,133.98,0.3642
+P1080,BrandD American,Home & kitchen,Brandb,146.42,194.26,0.2463
+P1081,BrandA Compare,Electronics,Branda,16.09,26.3,0.3882
+P1082,BrandB Financial,Electronics,Branda,21.85,35.93,0.3919
+P1083,BrandD Part,Apparel,Branda,140.65,186.78,0.247
+P1084,BrandD Man,Electronics,Brandd,184.93,249.42,0.2586
+P1085,BrandD Media,Home & kitchen,Brandc,36.58,42.67,0.1427
+P1086,BrandA Language,Personal care,Brandd,69.87,80.63,0.1334
+P1087,BrandC Drive,Apparel,Brandd,18.53,36.72,0.4954
+P1088,BrandB Back,Personal care,Brandb,130.87,156.73,0.165
+P1089,BrandD Song,Apparel,Branda,182.96,319.06,0.4266
+P1090,BrandA This,Electronics,Branda,18.73,32.87,0.4302
+P1091,BrandD Not,Electronics,Brandd,34.03,57.04,0.4034
+P1092,BrandA Himself,Personal care,Brandc,34.56,48.28,0.2842
+P1093,BrandD Hand,Electronics,Brandd,98.24,143.78,0.3167
+P1094,BrandA Vote,Apparel,Branda,79.96,137.56,0.4187
+P1095,BrandD Concern,Electronics,Brandc,70.02,96.11,0.2715
+P1096,BrandA Here,Electronics,Brandc,109.25,214.66,0.4911
+P1097,BrandA Executive,Personal care,Brandc,131.32,165.33,0.2057
+P1098,BrandA Support,Personal care,Brandb,63.28,91.83,0.3109
+P1099,BrandA When,Home & kitchen,Brandd,21.55,35.98,0.4011
+P1100,BrandB Standard,Apparel,Branda,42.65,74.54,0.4278
+P1101,BrandB Term,Personal care,Brandd,17.28,27.41,0.3696
+P1102,BrandC Up,Personal care,Brandd,193.48,215.69,0.103
+P1103,BrandC Major,Electronics,Brandc,158.62,180.59,0.1217
+P1104,BrandA Reason,Apparel,Brandd,188.32,354.64,0.469
+P1105,BrandB Important,Apparel,Branda,12.19,14.96,0.1852
+P1106,BrandA Interest,Personal care,Branda,52.32,88.1,0.4061
+P1107,BrandA Too,Apparel,Branda,181.41,333.55,0.4561
+P1108,BrandA Send,Personal care,Unknown,167.89,194.34,0.1361
+P1109,BrandA Detail,Electronics,Brandd,121.02,200.18,0.3954
+P1110,BrandA Trip,Apparel,Brandd,70.78,131.11,0.4601
+P1111,BrandD Magazine,Home & kitchen,Branda,195.29,316.05,0.3821
+P1112,BrandB Outside,Home & kitchen,Brandb,154.02,251.63,0.3879
+P1113,BrandC Usually,Electronics,Branda,58.41,104.07,0.4387
+P1114,BrandB Strong,Home & kitchen,Brandb,90.54,175.02,0.4827
+P1115,BrandA Become,Apparel,Unknown,159.26,265.8,0.4008
+P1116,BrandD Hard,Apparel,Branda,176.53,207.01,0.1472
+P1117,BrandA Until,Apparel,Branda,142.81,233.4,0.3881
+P1118,BrandC Total,Personal care,Brandd,140.01,179.99,0.2221
+P1119,BrandC Street,Personal care,Brandd,51.65,64.93,0.2045
+P1120,BrandA City,Apparel,Unknown,124.35,146.64,0.152
+P1121,BrandC Wife,Home & kitchen,Brandd,5.89,7.73,0.238
+P1122,BrandA Push,Electronics,Brandc,173.23,344.4,0.497
+P1123,BrandB Choice,Personal care,Brandb,58.9,75.06,0.2153
+P1124,BrandB Road,Personal care,Brandd,39.38,67.07,0.4129
+P1125,BrandA Box,Electronics,Brandc,60.59,90.35,0.3294
+P1126,BrandC Paper,Personal care,Branda,25.36,29.09,0.1282
+P1127,BrandB Daughter,Apparel,Branda,99.59,119.95,0.1697
+P1128,BrandB Simply,Personal care,Brandc,86.72,153.7,0.4358
+P1129,BrandC They,Apparel,Branda,68.6,81.51,0.1584
+P1130,BrandD Experience,Apparel,Brandd,178.82,208.54,0.1425
+P1131,BrandD Represent,Electronics,Brandd,33.26,64.36,0.4832
+P1132,BrandD Open,Apparel,Brandd,77.83,117.68,0.3386
+P1133,BrandB Care,Home & kitchen,Brandc,44.43,53.96,0.1766
+P1134,BrandA Goal,Home & kitchen,Brandb,26.67,40.51,0.3416
+P1135,BrandD Call,Apparel,Unknown,47.87,65.37,0.2677
+P1136,BrandB Parent,Apparel,Brandb,21.86,40.91,0.4657
+P1137,BrandD Region,Apparel,Brandd,168.21,227.29,0.2599
+P1138,BrandD Any,Apparel,Brandb,68.82,111.59,0.3833
+P1139,BrandB Condition,Electronics,Brandd,196.14,222.83,0.1198
+P1140,BrandD Research,Electronics,Brandd,108.57,166.26,0.347
+P1141,BrandA Cut,Personal care,Brandd,51.9,83.18,0.3761
+P1142,BrandA Language,Personal care,Brandb,30.88,42.19,0.2681
+P1143,BrandA Black,Electronics,Brandd,135.46,168.73,0.1972
+P1144,BrandD Enough,Electronics,Brandd,95.43,116.88,0.1835
+P1145,BrandD Likely,Apparel,Brandc,127.23,220.55,0.4231
+P1146,BrandA Road,Electronics,Brandd,179.22,250.84,0.2855
+P1147,BrandA Stop,Home & kitchen,Brandd,151.81,262.37,0.4214
+P1148,BrandB Low,Electronics,Brandc,148.47,170.64,0.1299
+P1149,BrandC Let,Electronics,Branda,79.68,121.02,0.3416
+P1150,BrandA Stand,Home & kitchen,Brandc,39.18,62.8,0.3761
+P1151,BrandA Radio,Apparel,Brandb,196.34,258.14,0.2394
+P1152,BrandA Several,Personal care,Brandb,151.87,271.06,0.4397
+P1153,BrandC Air,Home & kitchen,Brandc,103.2,152.8,0.3246
+P1154,BrandA Song,Electronics,Brandc,72.32,111.2,0.3496
+P1155,BrandA My,Personal care,Brandc,93.14,133.31,0.3013
+P1156,BrandA Probably,Apparel,Brandd,22.03,31.98,0.3111
+P1157,BrandB Than,Home & kitchen,Branda,26.33,35.5,0.2583
+P1158,BrandB Yet,Personal care,Brandb,175.62,275.48,0.3625
+P1159,BrandA Open,Home & kitchen,Brandd,194.07,308.05,0.37
+P1160,BrandB Yes,Personal care,Brandc,86.93,153.34,0.4331
+P1161,BrandA Cost,Home & kitchen,Brandb,17.28,32.57,0.4695
+P1162,BrandB Put,Home & kitchen,Brandd,117.85,199.19,0.4084
+P1163,BrandC Sport,Personal care,Brandd,94.31,151.89,0.3791
+P1164,BrandC Already,Apparel,Brandc,49.22,70.62,0.303
+P1165,BrandC Surface,Electronics,Brandb,73.86,111.55,0.3379
+P1166,BrandB Not,Apparel,Brandc,40.54,50.99,0.2049
+P1167,BrandB Least,Apparel,Brandb,27.8,55.44,0.4986
+P1168,BrandB Series,Personal care,Brandc,77.09,99.03,0.2215
+P1169,BrandA Phone,Home & kitchen,Brandc,33.85,50.9,0.335
+P1170,BrandB Science,Home & kitchen,Branda,184.48,270.1,0.317
+P1171,BrandD Tax,Apparel,Brandd,185.92,230.62,0.1938
+P1172,BrandC Break,Home & kitchen,Unknown,179.72,354.52,0.4931
+P1173,BrandB Each,Personal care,Brandc,139.38,245.1,0.4313
+P1174,BrandA Road,Apparel,Branda,65.08,95.11,0.3157
+P1175,BrandB Him,Personal care,Brandc,23.03,26.47,0.13
+P1176,BrandB Young,Apparel,Brandc,43.16,50.72,0.1491
+P1177,BrandD Together,Electronics,Brandd,42.92,59.49,0.2785
+P1178,BrandA Record,Home & kitchen,Unknown,33.85,63.25,0.4648
+P1179,BrandC Movement,Personal care,Brandc,7.38,10.41,0.2911
+P1180,BrandC Agency,Personal care,Branda,47.06,89.37,0.4734
+P1181,BrandD Certain,Personal care,Brandc,36.94,64.84,0.4303
+P1182,BrandD Measure,Personal care,Brandb,167.92,275.08,0.3896
+P1183,BrandB Analysis,Apparel,Brandc,97.55,183.47,0.4683
+P1184,BrandC Pressure,Electronics,Brandd,22.25,32.67,0.3189
+P1185,BrandC Hold,Personal care,Brandb,113.38,197.19,0.425
+P1186,BrandB Activity,Apparel,Brandb,167.3,227.61,0.265
+P1187,BrandD From,Electronics,Brandc,167.74,230.39,0.2719
+P1188,BrandD Before,Apparel,Branda,159.29,197.3,0.1927
+P1189,BrandC Cost,Personal care,Branda,132.49,252.18,0.4746
+P1190,BrandD No,Apparel,Brandd,181.82,305.51,0.4049
+P1191,BrandA Ability,Electronics,Brandc,101.14,199.61,0.4933
+P1192,BrandC Tend,Personal care,Brandd,174.33,290.29,0.3995
+P1193,BrandD Tax,Electronics,Brandc,104.94,169.77,0.3819
+P1194,BrandC Something,Apparel,Branda,33.5,50.75,0.3399
+P1195,BrandB Challenge,Home & kitchen,Brandb,15.31,21.82,0.2984
+P1196,BrandC Better,Electronics,Brandc,61.87,103.64,0.403
+P1197,BrandA Own,Apparel,Brandb,154.11,252.57,0.3898
+P1198,BrandB Your,Home & kitchen,Brandc,166.23,285.33,0.4174
+P1199,BrandC Door,Home & kitchen,Brandc,23.69,38.43,0.3836
